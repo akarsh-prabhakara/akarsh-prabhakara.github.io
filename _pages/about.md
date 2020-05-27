@@ -12,7 +12,7 @@ I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests
 
 Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
 
-## Contact ##
-aprabhak[AT]andrew.cmu.edu
-2313G, Robert Mehrabian Collaborative Innovation Center
-4720 Forbes Avenue, Pittsburgh, PA 15213
+## Contact
+aprabhak[AT]andrew.cmu.edu<br/>
+2313G, Robert Mehrabian Collaborative Innovation Center<br/>
+4720 Forbes Avenue, Pittsburgh, PA 15213<br/>

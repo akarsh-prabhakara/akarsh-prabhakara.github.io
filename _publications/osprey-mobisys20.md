@@ -1,8 +1,8 @@
 ---
-title: "Aircraft Integration Challenges and Opportunities for Distributed Intelligent Control, Power, Thermal Management, Diagnostic and Prognostic Systems"
+title: "Osprey: A mmWave Approach to Tire Wear Sensing"
 collection: publications
 permalink: /publications/osprey-mobisys20
-date: 2014-09-01 01:00:00 +0500
+date: 2020-05-28 01:00:00 +0500
 venue: '2014 SAE Aerospace Systems and Technology Conference'
 doi: '10.4271/2014-01-2161'
 pubtype: 'conference'

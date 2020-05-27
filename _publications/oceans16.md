@@ -1,5 +1,5 @@
 ---
-title: "Osprey: A mmWave Approach to Tire Wear Sensing"
+title: "Underwater acoustic source localization by vector sensor array using compressive sampling"
 collection: publications
 permalink: /publications/osprey-mobisys20
 date: 2016-07-20 01:00:00 +0500

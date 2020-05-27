@@ -168,7 +168,7 @@ textarea:-ms-input-placeholder {
 	}
 
 	.container { width: 100%; }
-	.tm-left-column { width: 30%; }
+	.tm-left-column { width: 25%; }
 
 	.tm-right-column {
 		float: right;

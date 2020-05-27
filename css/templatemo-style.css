@@ -91,7 +91,7 @@ p { line-height: 2; }
 
 /*.container { width: 100%; }*/
 .container-fluid { width: 100%; }
-.tm-site-name {font-size: 3.3rem; margin-top: 20px;}
+.tm-site-name {font-size: 2.5rem; margin-top: 70px;margin-bottom: 30px;}
 .tm-welcome-title { font-size: 2.4rem; }
 .tm-hello-title {font-size: 2rem;}
 .tm-section-title {	font-size: 1.5rem; }

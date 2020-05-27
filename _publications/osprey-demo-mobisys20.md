@@ -10,6 +10,4 @@ pdf: '/files/osprey-demo-mobisys20.pdf'
 pubtype: 'poster'
 authors: 'Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
 excerpt_separator: ""
-redirect_from: 
-  - /osprey
 ---

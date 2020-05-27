@@ -111,6 +111,11 @@ p { line-height: 2; }
 
 .tm-contact-right { margin-top: 40px; }
 
+.tm-left-column { 
+	position: fixed; 
+	height: 100%;
+}
+
 .form-control {
 	border-color: #0a6697;
 	border-radius: 0;

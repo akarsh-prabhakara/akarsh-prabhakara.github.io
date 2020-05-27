@@ -19,7 +19,7 @@ a:focus {
 	outline: none;
 }
 
-.row { display: block; }
+/*.row { display: block; }*/
 .tm-left-right-container { width: 100%; }
 
 .tm-blue-bg {
@@ -168,7 +168,7 @@ textarea:-ms-input-placeholder {
 	}
 
 	.container { width: 100%; }
-	.tm-left-column { width: 30%; }
+	.tm-left-column { width: 20%; }
 
 	.tm-right-column {
 		float: right;

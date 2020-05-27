@@ -1,10 +1,10 @@
-/*
 
-Neaty HTML Template
 
-http://www.templatemo.com/tm-501-neaty
+/*Neaty HTML Template
 
-*/
+http://www.templatemo.com/tm-501-neaty*/
+
+
 
 body {
 	font-family: 'Droid Sans Mono';
@@ -89,7 +89,7 @@ p { line-height: 2; }
 	margin-right: -5px;
 }
 
-.container { width: 100%; }
+/*.container { width: 100%; }*/
 .container-fluid { width: 100%; }
 .tm-site-name {font-size: 3.3rem; margin-top: 20px;}
 .tm-welcome-title { font-size: 2.4rem; }
@@ -104,9 +104,9 @@ p { line-height: 2; }
 
 /***************************/
 /*.tm-about-img-container { margin: 50px;}*/
-.tm-about-img-container { margin-top: 0; margin-left:10px; margin-right:10px;}
+/*.tm-about-img-container { margin-top: 0; margin-left:10px; margin-right:10px;}*/
 
-.tm-logo-div { 
+/*.tm-logo-div { 
 	padding-top: 60px; 
 	padding-bottom: 60px;
 }

@@ -7,6 +7,7 @@ http://www.templatemo.com/tm-501-neaty*/
 
 
 body {
+	width: 1280;
 	font-family: 'Droid Sans Mono';
 	font-size: 17px;
 	font-weight: 300;
@@ -103,62 +104,5 @@ p { line-height: 2; }
 .tm-img-container-3 { width: 25%; }
 
 /***************************/
-/*.tm-about-img-container { margin: 50px;}*/
-/*.tm-about-img-container { margin-top: 0; margin-left:10px; margin-right:10px;}*/
-
-/*.tm-logo-div { 
-	padding-top: 60px; 
-	padding-bottom: 60px;
-}
-
-.tm-button {
-	background-color: #006599;
-	border: none;
-	color: white;
-	cursor: pointer;
-	display: inline-block;
-	font-size: 1.4rem;	
-	padding: 18px 35px;
-}
-
-.tm-button-wide { padding: 18px 40px; }
-
-.tm-button:hover,
-.tm-button:active,
-.tm-button:focus {
-	background-color: #2790c6;
-	color: white;
-}
-
-.tm-contact-right { margin-top: 40px; }
-
-.form-control {
-	border-color: #0a6697;
-	border-radius: 0;
-	color: #4286ab;
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-	font-size: 1.3rem;
-}
-
-input::-webkit-input-placeholder,
-textarea::-webkit-input-placeholder {
-	color: #4286ab !important;
-}
- 
-input:-moz-placeholder,
-textarea:-moz-placeholder { /* Firefox 18- */
-	color: #4286ab !important;  
-}
- 
-input::-moz-placeholder,
-textarea::-moz-placeholder {  /* Firefox 19+ */
-	color: #4286ab !important;  
-}
- 
-input:-ms-input-placeholder,
-textarea:-ms-input-placeholder {  
-	color: #4286ab !important;  
-}
-
-.tm-contact-right {	padding-left: 15px; }
-.tm-copyright-p { margin-bottom: 0; }
+.tm-about-img-container { margin: 50px;}
+.tm-about-img-container { margin-top: 0; margin-left:10px; margin-right:10px;}

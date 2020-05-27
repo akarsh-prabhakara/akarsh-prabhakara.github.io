@@ -83,7 +83,7 @@ author:
   name             : #"Your Sidebar Name"
   avatar           : "dp.jpg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
+  location         : #""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

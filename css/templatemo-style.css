@@ -9,7 +9,7 @@ body {
 	font-family: 'Droid Sans Mono';
 	font-size: 17px;
 	font-weight: 300;
-	overflow-x: hidden;
+	overflow-x: auto;
 }
 
 a, button { transition: all 0.3s ease; }

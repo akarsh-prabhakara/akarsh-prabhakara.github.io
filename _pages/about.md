@@ -15,4 +15,4 @@ Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institut
 ## Contact
 aprabhak[AT]andrew.cmu.edu<br/>
 2313G, Robert Mehrabian Collaborative Innovation Center<br/>
-4720 Forbes Avenue, Pittsburgh, PA 15213<br/>
+4720 Forbes Avenue, Pittsburgh,  15213<br/>

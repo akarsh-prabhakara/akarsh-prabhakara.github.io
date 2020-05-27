@@ -196,8 +196,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      # share: true
+      # comments: true
 
 # Sass/SCSS
 sass:

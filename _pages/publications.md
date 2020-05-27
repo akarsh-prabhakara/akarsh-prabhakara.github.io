@@ -11,13 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Journal Articles</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'journal' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
 
 <h2>Conference Papers</h2>
 {% for post in site.publications reversed %}
@@ -26,9 +19,9 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Academic</h2>
+<h2>Workshop Papers, Poster, Demos</h2>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'academic' %}
+  {% if post.pubtype == 'poster' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}

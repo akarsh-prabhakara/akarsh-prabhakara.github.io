@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
@@ -17,6 +17,7 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
 
 <h2>Conference Papers</h2>
 {% for post in site.publications reversed %}
@@ -31,3 +32,4 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+

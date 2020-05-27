@@ -115,6 +115,12 @@ p { line-height: 2; }
 	position: fixed; 
 	height: 100%;
 }
+.tm-left-column { width: 30%; 	overflow: auto;}
+
+.tm-right-column {
+	float: right;
+	width: 70%;
+}
 
 .form-control {
 	border-color: #0a6697;

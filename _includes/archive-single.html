@@ -65,6 +65,8 @@
     <br /><a href=" {{ post.paperurl }} "><u>File</u></a>
     {% elsif post.doi %}
     <br /><a href="https://doi.org/{{ post.doi }}"><u>DOI</u></a>
+    {% if post.pdf and post.bibtex%}
+    <br /><a href=" {{ post.pdf }} "><u>[PDF]</u></a> &#124; <a href=" {{ post.bibtex }} "><u>[BibTeX]</u></a>    
     {% endif %}
 
   </article>

@@ -82,7 +82,7 @@ p { line-height: 2; }
 	color: #f4ef5e;
 }
 
-.tm-about-img-container { margin-top: 50px;}
+.tm-about-img-container { overflow: auto; margin-top: 50px;}
 
 .tm-gallery-container {
 	overflow: auto;

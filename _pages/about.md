@@ -7,10 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: highlights-1.jpg
+  - url: /osprey/
     image_path: osprey.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+   - url: /osprey/
+    image_path: osprey.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"  
 ---
 
 I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
@@ -21,7 +25,6 @@ Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institut
 
 ## Highlights
 {% include gallery %}
-<!-- {% include figure image_path="/images/osprey.jpg" alt="this is a placeholder image" caption="This is a figure caption." %} -->
 
 ## Contact
 aprabhak[AT]andrew.cmu.edu<br>

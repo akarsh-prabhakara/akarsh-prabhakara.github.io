@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: /osprey/
+  - url: https://akarsh-prabhakara.github.io/osprey
     image_path: osprey.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /osprey/
+  - url: https://akarsh-prabhakara.github.io/osprey
     image_path: osprey.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"  

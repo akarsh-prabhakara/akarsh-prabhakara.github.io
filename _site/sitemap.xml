@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://akarsh-prabhakara.github.io/publications/osprey-mobisys20</loc>
+<loc>https://akarsh-prabhakara.github.io/osprey/</loc>
 <lastmod>2020-05-27T16:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>https://akarsh-prabhakara.github.io/publications/osprey-mobisys20</loc>
+<loc>https://akarsh-prabhakara.github.io/publications/oceans16/</loc>
+<lastmod>2016-07-19T16:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://akarsh-prabhakara.github.io/publications/osprey-demo-mobisys20/</loc>
+<lastmod>2020-05-27T16:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>https://akarsh-prabhakara.github.io/publications/osprey-mobisys20/</loc>
 <lastmod>2020-05-27T16:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>https://akarsh-prabhakara.github.io/</loc>
 </url>
 <url>
+<loc>https://akarsh-prabhakara.github.io/projects/</loc>
+</url>
+<url>
 <loc>https://akarsh-prabhakara.github.io/publications/</loc>
+</url>
+<url>
+<loc>https://akarsh-prabhakara.github.io/bibtex/oceans16.html</loc>
+<lastmod>2020-05-27T19:11:30-04:00</lastmod>
 </url>
 <url>
 <loc>https://akarsh-prabhakara.github.io/bibtex/osprey-demo-mobisys20.html</loc>
@@ -21,6 +36,10 @@
 <url>
 <loc>https://akarsh-prabhakara.github.io/bibtex/osprey-mobisys20.html</loc>
 <lastmod>2020-05-27T18:49:02-04:00</lastmod>
+</url>
+<url>
+<loc>https://akarsh-prabhakara.github.io/files/oceans16.pdf</loc>
+<lastmod>2020-05-27T19:10:31-04:00</lastmod>
 </url>
 <url>
 <loc>https://akarsh-prabhakara.github.io/files/osprey-demo-mobisys20.pdf</loc>

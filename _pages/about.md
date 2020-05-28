@@ -15,10 +15,6 @@ gallery:
     image_path: osprey.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"  
-  - url: https://akarsh-prabhakara.github.io/osprey
-    image_path: osprey.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"  
 ---
 
 I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).

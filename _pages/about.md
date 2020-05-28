@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - url: https://akarsh-prabhakara.github.io/osprey
     image_path: osprey.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - image_path: dummy.png
   - image_path: dummy.png
 ---

@@ -3,47 +3,25 @@ layout: single
 title: "Osprey"
 collection: projects
 permalink: /projects/osprey/
-date: 2020-05-28 01:00:00 +0500
 redirect_from: 
   - /osprey/
-excerpt: '
-I am a *Ph.D*. ''student'' in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).<br>
-<br>
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
+excerpt: |
+ ![image-center](/images/osprey.jpg){: .align-left} Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, requires sensors embedded in tires or are prone to road debris. Osprey proposes a sensor system design based on automotive mmWave radars and designs algorithms to measure tire wear while overcoming challenges related to road debris. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  
+ {: .text-justify}
 
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-'
+ [Full Paper](/files/osprey-mobisys20.pdf) &#124; [BibTeX](/bibtex/osprey-mobisys20.html) &#124;
+ [Demo Paper](/files/osprey-demo-mobisys20.pdf) &#124; [Demo BibTeX](/bibtex/osprey-demo-mobisys20.html) &#124;
+ [Slides](/files/osprey-mobisys20.pdf) &#124; [Talk](/files/osprey-mobisys20.pdf) &#124;
+ [Demo-1min](/files/osprey-mobisys20.pdf) &#124; [Demo-5min](/files/osprey-mobisys20.pdf) &#124;
+ [Experience Blog](/osprey-exp)
+ {: .text-justify}
 ---
-I am a *Ph.D*. ''student'' in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).<br>
-<br>
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
+ ![image-center](/images/osprey.jpg){: .align-left} Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, requires sensors embedded in tires or are prone to road debris. Osprey proposes a sensor system design based on automotive mmWave radars and designs algorithms to measure tire wear while overcoming challenges related to road debris. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  
+ {: .text-justify}
 
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
-
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
-
-Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
+ [Full Paper](/files/osprey-mobisys20.pdf) &#124; [BibTeX](/bibtex/osprey-mobisys20.html) &#124;
+ [Demo Paper](/files/osprey-demo-mobisys20.pdf) &#124; [Demo BibTeX](/bibtex/osprey-demo-mobisys20.html) &#124;
+ [Slides](/files/osprey-mobisys20.pdf) &#124; [Talk](/files/osprey-mobisys20.pdf) &#124;
+ [Demo-1min](/files/osprey-mobisys20.pdf) &#124; [Demo-5min](/files/osprey-mobisys20.pdf) &#124;
+ [Experience Blog](/osprey-exp)
+ {: .text-justify}

@@ -6,13 +6,24 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+gallery:
+  - url: highlights-1.jpg
+    image_path: osprey.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 
 I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
+{: .text-justify}
 
 Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.
+{: .text-justify}
+
+## Highlights
+{% include gallery %}
+<!-- {% include figure image_path="/images/osprey.jpg" alt="this is a placeholder image" caption="This is a figure caption." %} -->
 
 ## Contact
-aprabhak[AT]andrew.cmu.edu<br/>
-2313G, Robert Mehrabian Collaborative Innovation Center<br/>
-4720 Forbes Avenue, Pittsburgh, PA 15213<br/>
+aprabhak[AT]andrew.cmu.edu<br>
+2313G, Robert Mehrabian Collaborative Innovation Center<br>
+4720 Forbes Avenue, Pittsburgh, PA 15213<br>

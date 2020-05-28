@@ -11,7 +11,7 @@ gallery:
     image_path: osprey.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-   - url: /osprey/
+  - url: /osprey/
     image_path: osprey.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"  

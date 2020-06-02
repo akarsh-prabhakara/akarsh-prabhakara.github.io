@@ -12,7 +12,7 @@ excerpt: |
  [Full Paper](/files/osprey-mobisys20.pdf) &#124; [BibTeX](/bibtex/osprey-mobisys20.html) &#124;
  [Demo Paper](/files/osprey-demo-mobisys20.pdf) &#124; [Demo BibTeX](/bibtex/osprey-demo-mobisys20.html) &#124;
  [Slides](/files/osprey-mobisys20.pdf) &#124; [Talk](/files/osprey-mobisys20.pdf) &#124;
- [Video-1min](/files/osprey-mobisys20.pdf) &#124; [Video-3min](/files/osprey-mobisys20.pdf) &#124;
+ [Video-1min](https://www.youtube.com/watch?v=jhasOfGaS5w) &#124; [Video-3min](https://www.youtube.com/watch?v=jhasOfGaS5w) &#124;
  [Experience Blog](/osprey-exp)
  {: .text-justify}
 ---
@@ -22,6 +22,6 @@ excerpt: |
  [Full Paper](/files/osprey-mobisys20.pdf) &#124; [BibTeX](/bibtex/osprey-mobisys20.html) &#124;
  [Demo Paper](/files/osprey-demo-mobisys20.pdf) &#124; [Demo BibTeX](/bibtex/osprey-demo-mobisys20.html) &#124;
  [Slides](/files/osprey-mobisys20.pdf) &#124; [Talk](/files/osprey-mobisys20.pdf) &#124;
- [Video-1min](/files/osprey-mobisys20.pdf) &#124; [Video-3min](/files/osprey-mobisys20.pdf) &#124;
+ [Video-1min](https://www.youtube.com/watch?v=jhasOfGaS5w) &#124; [Video-3min](https://www.youtube.com/watch?v=jhasOfGaS5w) &#124;
  [Experience Blog](/osprey-exp)
  {: .text-justify}

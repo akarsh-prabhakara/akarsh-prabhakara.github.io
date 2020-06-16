@@ -79,6 +79,9 @@
     {% if post.pdf and post.bibtex  %}
     <br /><a href=" {{ post.pdf }} ">[PDF]</a> &#124; <a href=" {{post.bibtex}}">[BibTeX]</a>    
     {% endif %}
+    {% if post.award%}
+    <br /><span style="color: red">"{{post.award}}"</span>   
+    {% endif %}   
 
   </article>
 </div>

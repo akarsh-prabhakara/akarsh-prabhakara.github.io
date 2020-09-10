@@ -16,6 +16,8 @@ excerpt: |
  [Experience Blog](/osprey-exp)
  {: .text-justify}
 
+ Press: [CMU]() &#124; [Gizmodo]() &#124; [Hackster.io]() &#124; [Podcast]() &#124;
+
  *Best Paper Honorable Mention (MobiSys 2020)*{: style="color: red"} <br>
  *Best Demo (MobiSys 2020)*{: style="color: red"}
 ---
@@ -28,6 +30,8 @@ excerpt: |
  [Video-1min](https://www.youtube.com/embed/tGFg0Vhi2uY?start=66&end=127) &#124; [Video-3min](https://www.youtube.com/watch?v=jhasOfGaS5w) &#124;
  [Experience Blog](/osprey-exp)
  {: .text-justify}
+
+ Press: [CMU]() &#124; [Gizmodo]() &#124; [Hackster.io]() &#124; [Podcast]() &#124;
 
  *Best Paper Honorable Mention (MobiSys 2020)*{: style="color: red"} <br>
  *Best Demo (MobiSys 2020)*{: style="color: red"}

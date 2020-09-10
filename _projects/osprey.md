@@ -16,7 +16,7 @@ excerpt: |
  [Experience Blog](/osprey-exp)
  {: .text-justify}
 
- Press: [CMU]() &#124; [Gizmodo]() &#124; [Hackster.io]() &#124; [Podcast]() &#124;
+ *Press*: [CMU](https://www.ece.cmu.edu/news-and-events/story/2020/07/sensing-tire-wear.html) &#124; [Gizmodo](https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816) &#124; [Hackster.io](https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3) &#124; [That's Cool News - Podcast](https://thatscoolnews.com/episode/21-osprey-mmwaves-sense-tire-wear-akarsh/)
 
  *Best Paper Honorable Mention (MobiSys 2020)*{: style="color: red"} <br>
  *Best Demo (MobiSys 2020)*{: style="color: red"}
@@ -31,7 +31,7 @@ excerpt: |
  [Experience Blog](/osprey-exp)
  {: .text-justify}
 
- Press: [CMU]() &#124; [Gizmodo]() &#124; [Hackster.io]() &#124; [Podcast]() &#124;
+ *Press*: [CMU](https://www.ece.cmu.edu/news-and-events/story/2020/07/sensing-tire-wear.html) &#124; [Gizmodo](https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816) &#124; [Hackster.io](https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3) &#124; [That's Cool News - Podcast](https://thatscoolnews.com/episode/21-osprey-mmwaves-sense-tire-wear-akarsh/)
 
  *Best Paper Honorable Mention (MobiSys 2020)*{: style="color: red"} <br>
  *Best Demo (MobiSys 2020)*{: style="color: red"}

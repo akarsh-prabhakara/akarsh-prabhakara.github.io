@@ -19,7 +19,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Workshop Papers, Poster, Demos</h2>
+<h2>Workshop Papers, Posters, Demos</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'poster' %}
       {% include archive-single.html %}

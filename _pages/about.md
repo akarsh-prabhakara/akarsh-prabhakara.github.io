@@ -13,7 +13,7 @@ gallery:
   - image_path: dummy.png
 ---
 
-I am a Ph.D. student in ECE at Carnegie Mellon University. My research interests broadly lie in wireless systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
+I am a Ph.D. student in ECE at Carnegie Mellon University. My current research interests broadly lie in cyber-physical systems. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
 {: .text-justify}
 
 Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), Surathkal, India.

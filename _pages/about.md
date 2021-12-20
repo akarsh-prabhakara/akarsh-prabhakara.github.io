@@ -20,7 +20,7 @@ I am a Ph.D. candidate in ECE at Carnegie Mellon University. I am coadvised by [
 Prior to CMU, I spent 4 wonderful years doing my undergrad at [National Institute of Technology Karnataka](https://www.nitk.ac.in/), India.
 {: .text-justify} -->
 
-I am looking for internships during the summer of 2022. Have a look at my [resume](/files/Resume.pdf) and please reach out to me if you are interested.
+I am looking for internships during the summer of 2022. Have a look at my [résumé](/files/Resume.pdf) and please reach out to me if you are interested.
 {: .text-justify}
 ## Highlights
 {% include gallery %}

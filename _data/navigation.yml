@@ -5,3 +5,6 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Résumé"
+    url: /files/resume.pdf

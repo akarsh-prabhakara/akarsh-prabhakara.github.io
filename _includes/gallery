@@ -22,7 +22,7 @@
         {% if img.url contains "://" %}
           "{{ img.url }}"
         {% else %}
-          "{{ img.url | prepend: "/images/" | prepend: base_path }}"
+          "{{ img.url | prepend: "/" | prepend: base_path }}"
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
       >

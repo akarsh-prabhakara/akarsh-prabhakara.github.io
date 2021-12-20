@@ -27,7 +27,7 @@
     {% endif %}
 
     {% if post.collection == 'publications'%}
-    <h3 class="archive__item-title" itemprop="headline">{{title}}
+    <h3 class="archive__item-title" itemprop="headline"><a href=" {{ post.pdf }} " style="text-decoration:none;">{{title}}</a>
     </h3>
     {% elsif post.collection != 'publications' %}
     <h3 class="archive__item-title" itemprop="headline">
@@ -49,7 +49,7 @@
       {% if post.authors %}
       {{ post.authors }} <br />
       {% endif %}
-          Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+          <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% endif %}
 
     {% if post.collection == 'projects' %}
@@ -74,9 +74,9 @@
     {% elsif post.doi %}
     <br /><a href="https://doi.org/{{ post.doi }}"><u>DOI</u></a>
     {% endif %}
-    {% if post.pdf and post.bibtex  %}
+    <!-- {% if post.pdf and post.bibtex  %}
     <br /><a href=" {{ post.pdf }} ">[PDF]</a> &#124; <a href=" {{post.bibtex}}">[BibTeX]</a>    
-    {% endif %}
+    {% endif %} -->
     {% if post.award%}
     <br /><span style="color: red"><i>{{post.award}}</i></span>   
     {% endif %}   

@@ -8,6 +8,6 @@ bibtex: '/bibtex/osprey-mobisys20.html'
 pdf: '/files/osprey-mobisys20.pdf'
 pubtype: 'conference'
 authors: 'Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
-award: 'Best Paper Honorable Mention'
+award: 'Best Paper Honorable Mention, GetMobile Research Highlight'
 excerpt_separator: ""
 ---

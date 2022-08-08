@@ -15,7 +15,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign my_research = "Osprey, Millimetro, cbjsbc" | split: ", " %}
+{% assign my_research = "Osprey, Millimetro, Metamoran, cbjsbc" | split: ", " %}
 
 {% for post in site.projects reversed %}
   {% if my_research contains post.title %}

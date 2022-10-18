@@ -13,7 +13,6 @@ gallery:
     image_path: millimetro.png
   - url: osprey
     image_path: osprey.jpg
-  - image_path: dummy.png
 ---
 
 I am a Ph.D. candidate in ECE at Carnegie Mellon University. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html). My current research interests broadly lie in cyber-physical systems. In my graduate research, I build systems that use millimeter wave radio frequencies to better sense the world around us.

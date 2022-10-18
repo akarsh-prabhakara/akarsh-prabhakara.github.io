@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
+  - url: metamoran
+    image_path: metamoran_highlight.jpg
   - url: millimetro
     image_path: millimetro.png
   - url: osprey

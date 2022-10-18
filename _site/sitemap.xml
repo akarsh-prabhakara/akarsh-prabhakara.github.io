@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/projects/metamoran/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/projects/millimetro/</loc>
 </url>
 <url>
@@ -98,8 +101,12 @@
 <lastmod>2021-12-20T15:13:31-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/files/Resume.pdf</loc>
-<lastmod>2022-01-23T17:09:31-05:00</lastmod>
+<loc>http://localhost:4000/files/CV.pdf</loc>
+<lastmod>2022-10-18T17:38:56-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/metamoran-iros22.pdf</loc>
+<lastmod>2022-08-07T18:24:34-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/millimetro-demo-mobicom21.pdf</loc>

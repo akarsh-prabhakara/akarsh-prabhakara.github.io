@@ -6,7 +6,7 @@ permalink: /projects/millimetro/
 redirect_from: 
   - /millimetro/
 excerpt: |
- ![image-center](/images/millimetro.png){: .align-right width="329px"} How can cars perceive critical roadside infrastructure even when weather conditions are not favorable for visual sensors? Millimetro tackles this by designing low power tags that can be mounted on such infrastructure and building decoding algorithms that run on radars in cars to decode, identify and accurately localize tags. 
+ ![image-center](/images/millimetro.png){: .align-right width="329px"} How can cars perceive critical roadside infrastructure even when weather conditions are not favorable for visual sensors? Millimetro tackles this by designing low power radio frequency tags that can be mounted on such infrastructure and builds decoding algorithms that run on radars in cars to decode, identify and accurately localize tags. 
  {: .text-justify}
 
  [Full Paper](/files/millimetro-mobicom21.pdf){: style="text-decoration:none;"} &#124;
@@ -18,7 +18,7 @@ excerpt: |
 
  ---
 ---
- ![image-center](/images/millimetro.png){: .align-right width="329px"} How can cars perceive critical roadside infrastructure even when weather conditions are not favorable for visual sensors? Millimetro tackles this by designing low power tags that can be mounted on such infrastructure and building decoding algorithms that run on radars in cars to decode, identify and accurately localize tags. 
+ ![image-center](/images/millimetro.png){: .align-right width="329px"} How can cars perceive critical roadside infrastructure even when weather conditions are not favorable for visual sensors? Millimetro tackles this by designing low power radio frequency tags that can be mounted on such infrastructure and builds decoding algorithms that run on radars in cars to decode, identify and accurately localize tags.  
  {: .text-justify}
 
  [Full Paper](/files/millimetro-mobicom21.pdf){: style="text-decoration:none;"} &#124;

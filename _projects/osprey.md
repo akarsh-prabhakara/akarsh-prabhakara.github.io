@@ -6,7 +6,7 @@ permalink: /projects/osprey/
 redirect_from: 
   - /osprey/
 excerpt: |
- ![image-center](/images/osprey.jpg){: .align-left} Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, requires sensors embedded in tires or are prone to road debris. Osprey proposes a sensor system design based on automotive millimeter wave radars and designs algorithms to measure tire wear while overcoming challenges related to road debris. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  
+ ![image-center](/images/osprey.jpg){: .align-left} Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, require sensors embedded in tires or are prone to road debris. Osprey proposes a radio frequency tire wear sensing system design, based on automotive millimeter wave radars, to overcome challenges related to road debris. We design super resolution algorithms to measure millimeter-level changes due to wear and tear. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  
  {: .text-justify}
 
  [Full Paper](/files/osprey-mobisys20.pdf){: style="text-decoration:none;"} &#124;
@@ -24,7 +24,7 @@ excerpt: |
  
  ---
 ---
- ![image-center](/images/osprey.jpg){: .align-left} Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, requires sensors embedded in tires or are prone to road debris. Osprey proposes a sensor system design based on automotive millimeter wave radars and designs algorithms to measure tire wear while overcoming challenges related to road debris. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  
+ ![image-center](/images/osprey.jpg){: .align-left} Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, require sensors embedded in tires or are prone to road debris. Osprey proposes a radio frequency tire wear sensing system design, based on automotive millimeter wave radars, to overcome challenges related to road debris. We design super resolution algorithms to measure millimeter-level changes due to wear and tear. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire. 
  {: .text-justify}
 
  [Full Paper](/files/osprey-mobisys20.pdf){: style="text-decoration:none;"} &#124;

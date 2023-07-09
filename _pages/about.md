@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
+  - url: radarhd
+    image_path: radarhd.jpg
   - url: metamoran
     image_path: metamoran_highlight.jpg
   - url: millimetro

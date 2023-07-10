@@ -8,5 +8,6 @@ bibtex: ''
 pdf: '/files/platypus-demo-ipsn23.pdf'
 pubtype: 'poster'
 authors: 'Jizheng He, Thomas Horton King, Chun-Kai Yao, Akarsh Prabhakara, Mohamad Alipour, Swarun Kumar, Anthony Rowe, Elahe Soltanaghai'
+award: 'Best Demo Runner Up'
 excerpt_separator: ""
 ---

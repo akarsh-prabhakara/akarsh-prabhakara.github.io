@@ -10,6 +10,7 @@ excerpt: |
  {: .text-justify}
 
  [ICRA Paper](/files/radarhd-icra23.pdf){: style="text-decoration:none;"} &#124;
+ [Extended Paper](https://arxiv.org/abs/2206.09273){: style="text-decoration:none;"} &#124;
  [Demo Link](https://www.youtube.com/watch?v=me8ozpgyy0M){: style="text-decoration:none;"} &#124; 
  [Slides](https://docs.google.com/presentation/d/10PZ3w1gmvSjGArqaNUhJiEY29zo8bQZU/edit?usp=sharing&ouid=111709944551033943094&rtpof=true&sd=true){: style="text-decoration:none;"} &#124;
  [Talk](https://drive.google.com/file/d/1YJ_7sYA-DEketsJbUBbzHp7P4u8hBVye/view?usp=sharing){: style="text-decoration:none;"} &#124;
@@ -22,6 +23,7 @@ excerpt: |
  {: .text-justify}
 
  [ICRA Paper](/files/radarhd-icra23.pdf){: style="text-decoration:none;"} &#124;
+ [Extended Paper](https://arxiv.org/abs/2206.09273){: style="text-decoration:none;"} &#124;
  [Demo Link](https://www.youtube.com/watch?v=me8ozpgyy0M){: style="text-decoration:none;"} &#124; 
  [Slides](https://docs.google.com/presentation/d/10PZ3w1gmvSjGArqaNUhJiEY29zo8bQZU/edit?usp=sharing&ouid=111709944551033943094&rtpof=true&sd=true){: style="text-decoration:none;"} &#124;
  [Talk](https://drive.google.com/file/d/1YJ_7sYA-DEketsJbUBbzHp7P4u8hBVye/view?usp=sharing){: style="text-decoration:none;"} &#124;

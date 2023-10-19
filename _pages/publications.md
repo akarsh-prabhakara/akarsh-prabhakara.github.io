@@ -19,6 +19,13 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Symposiums, Workshops</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'symposium' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <h2>Posters, Demos, Magazines</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'poster' %}

@@ -7,6 +7,6 @@ venue: 'ACM GetMobile Magazine'
 bibtex: '/bibtex/quasar-getmobile22.html'
 pdf: '/files/quasar-getmobile22.pdf'
 pubtype: 'poster'
-authors: 'Vaibhav Singh, Akarsh Prabhakara, Diana Zhang, Osman Yağan, Swarun Kumar'
+authors: 'Vaibhav Singh, <ins>Akarsh Prabhakara</ins>, Diana Zhang, Osman Yağan, Swarun Kumar'
 excerpt_separator: ""
 ---

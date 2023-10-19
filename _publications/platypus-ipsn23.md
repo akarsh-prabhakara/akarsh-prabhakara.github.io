@@ -7,6 +7,6 @@ venue: 'ACM/IEEE IPSN'
 bibtex: ''
 pdf: '/files/platypus-ipsn23.pdf'
 pubtype: 'conference'
-authors: 'Thomas Horton King, Jizheng He, Chun-Kai Yao, Akarsh Prabhakara, Mohamad Alipour, Swarun Kumar, Anthony Rowe, Elahe Soltanaghai'
+authors: 'Thomas Horton King, Jizheng He, Chun-Kai Yao, <ins>Akarsh Prabhakara</ins>, Mohamad Alipour, Swarun Kumar, Anthony Rowe, Elahe Soltanaghai'
 excerpt_separator: ""
 ---

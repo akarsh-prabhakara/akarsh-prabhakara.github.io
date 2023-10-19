@@ -7,6 +7,6 @@ venue: 'ACM MobiCom'
 bibtex: '/bibtex/millimetro-mobicom21.html'
 pdf: '/files/millimetro-mobicom21.pdf'
 pubtype: 'conference'
-authors: 'Elahe Soltanaghaei*, Akarsh Prabhakara*, Artur Balanuta*, Matthew Anderson, Jan Rabaey, Swarun Kumar, Anthony Rowe'
+authors: 'Elahe Soltanaghaei*, <ins>Akarsh Prabhakara*</ins>, Artur Balanuta*, Matthew Anderson, Jan Rabaey, Swarun Kumar, Anthony Rowe'
 excerpt_separator: ""
 ---

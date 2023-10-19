@@ -7,6 +7,6 @@ venue: 'IEEE Phased Array Systems and Technology (PAST)'
 bibtex: ''
 pdf: '/files/zoomout-past22.pdf'
 pubtype: 'symposium'
-authors: 'Tze Meng Low, Yuejie Chi, James Hoe, Swarun Kumar, Akarsh Prabhakara, Laixi Shi, Upasana Sridhar, Nicholai Tukanov, Chengyue Wang, Yuchen Wu'
+authors: 'Tze Meng Low, Yuejie Chi, James Hoe, Swarun Kumar, <ins>Akarsh Prabhakara</ins>, Laixi Shi, Upasana Sridhar, Nicholai Tukanov, Chengyue Wang, Yuchen Wu'
 excerpt_separator: ""
 ---

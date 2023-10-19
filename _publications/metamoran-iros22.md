@@ -7,6 +7,6 @@ venue: 'IEEE/RSJ IROS'
 bibtex: ''
 pdf: '/files/metamoran-iros22.pdf'
 pubtype: 'conference'
-authors: 'Akarsh Prabhakara*, Diana Zhang*, Chao Li, Sirajum Munir, Aswin Sankaranarayanan, Anthony Rowe, Swarun Kumar'
+authors: '<ins>Akarsh Prabhakara*</ins>, Diana Zhang*, Chao Li, Sirajum Munir, Aswin Sankaranarayanan, Anthony Rowe, Swarun Kumar'
 excerpt_separator: ""
 ---

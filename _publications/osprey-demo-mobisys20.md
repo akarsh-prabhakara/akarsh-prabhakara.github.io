@@ -7,7 +7,7 @@ venue: 'ACM MobiSys Demo'
 bibtex: '/bibtex/osprey-demo-mobisys20.html'
 pdf: '/files/osprey-demo-mobisys20.pdf'
 pubtype: 'poster'
-authors: 'Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
+authors: '<ins>Akarsh Prabhakara</ins>, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
 award: 'Best Demo'
 excerpt_separator: ""
 ---

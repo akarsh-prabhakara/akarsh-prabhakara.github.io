@@ -7,7 +7,7 @@ venue: 'ACM/IEEE IPSN'
 bibtex: ''
 pdf: '/files/phdforum-ipsn23.pdf'
 pubtype: 'poster'
-authors: 'Akarsh Prabhakara'
+authors: '<ins>Akarsh Prabhakara</ins>'
 award: 'Best Presentation Runner Up'
 excerpt_separator: ""
 ---

@@ -7,7 +7,7 @@ venue: 'ACM MobiCom'
 bibtex: '/bibtex/quasar-mobicom21.html'
 pdf: '/files/quasar-mobicom21.pdf'
 pubtype: 'conference'
-authors: 'Vaibhav Singh, Akarsh Prabhakara, Diana Zhang, Osman Yağan, Swarun Kumar'
+authors: 'Vaibhav Singh, <ins>Akarsh Prabhakara</ins>, Diana Zhang, Osman Yağan, Swarun Kumar'
 award: 'GetMobile Research Highlight'
 excerpt_separator: ""
 ---

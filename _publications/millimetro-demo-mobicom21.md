@@ -7,6 +7,6 @@ venue: 'ACM MobiCom Demo'
 bibtex: '/bibtex/millimetro-demo-mobicom21.html'
 pdf: '/files/millimetro-demo-mobicom21.pdf'
 pubtype: 'poster'
-authors: 'Thomas Horton King, Elahe Soltanaghei, Akarsh Prabhakara, Artur Balanuta, Swarun Kumar, Anthony Rowe'
+authors: 'Thomas Horton King, Elahe Soltanaghei, <ins>Akarsh Prabhakara</ins>, Artur Balanuta, Swarun Kumar, Anthony Rowe'
 excerpt_separator: ""
 ---

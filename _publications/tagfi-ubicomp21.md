@@ -7,6 +7,6 @@ venue: 'Ubicomp'
 bibtex: '/bibtex/tagfi-ubicomp21.html'
 pdf: '/files/tagfi-ubicomp21.pdf'
 pubtype: 'conference'
-authors: 'Elahe Soltanaghaei, Adwait Dongare, Akarsh Prabhakara, Swarun Kumar, Anthony Rowe, Kamin Whitehouse'
+authors: 'Elahe Soltanaghaei, Adwait Dongare, <ins>Akarsh Prabhakara</ins>, Swarun Kumar, Anthony Rowe, Kamin Whitehouse'
 excerpt_separator: ""
 ---

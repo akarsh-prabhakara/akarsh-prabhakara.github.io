@@ -7,6 +7,6 @@ venue: 'ACM GetMobile Magazine'
 bibtex: '/bibtex/osprey-getmobile21.html'
 pdf: '/files/osprey-getmobile21.pdf'
 pubtype: 'poster'
-authors: 'Akarsh Prabhakara, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
+authors: '<ins>Akarsh Prabhakara</ins>, Vaibhav Singh, Swarun Kumar, Anthony Rowe'
 excerpt_separator: ""
 ---

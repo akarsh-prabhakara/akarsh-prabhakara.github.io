@@ -7,6 +7,6 @@ venue: 'IEEE ICRA'
 bibtex: ''
 pdf: '/files/radarhd-icra23.pdf'
 pubtype: 'conference'
-authors: 'Akarsh Prabhakara, Tao Jin, Arnav Das, Gantavya Bhatt, Lilly Kumari, Elahe Soltanaghai, Jeff Bilmes, Swarun Kumar, Anthony Rowe'
+authors: '<ins>Akarsh Prabhakara</ins>, Tao Jin, Arnav Das, Gantavya Bhatt, Lilly Kumari, Elahe Soltanaghai, Jeff Bilmes, Swarun Kumar, Anthony Rowe'
 excerpt_separator: ""
 ---

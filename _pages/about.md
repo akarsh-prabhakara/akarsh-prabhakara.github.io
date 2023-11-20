@@ -9,10 +9,13 @@ redirect_from:
 gallery:
   - url: radarhd
     image_path: radarhd-2.jpg
+    title: RadarHD - See through smoke
   - url: millimetro
     image_path: millimetro.png
+    title: Millimetro - See through fog
   - url: osprey
     image_path: osprey.jpg
+    title: Osprey - See through dust
 ---
 
 I am a Ph.D. candidate in ECE at Carnegie Mellon University. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html). 

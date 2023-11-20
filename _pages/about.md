@@ -17,10 +17,16 @@ gallery:
 
 I am a Ph.D. candidate in ECE at Carnegie Mellon University. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html). 
 
-My research interests broadly lie in wireless systems and cyber-physical systems. My research makes advances in wireless systems to enhance radio frequency sensing for cyber-physical systems that operate in harsh and extreme conditions and enable next generation communication. (1) *Next-gen Cyber Physical Systems*: Think of self driving cars in heavy fog and robots in dense smoke. (2) *Next-gen Communication*: Think of hyper-aware reconfigurable radio surfaces. I have built systems that use millimeter wave radio frequencies for realizing key applications in transportation, robotics and critical infrastructure monitoring. 
+My research interests broadly lie in wireless systems and cyber-physical systems. My research makes advances in wireless systems to enhance radio frequency sensing for cyber-physical systems that operate in harsh conditions and enable next generation communication. 
+{: style="text-align: justify;"}
+1. *Next-gen Cyber-Physical Systems*: Think of self-driving cars in fog and robots in smoke.
+2. *Next-gen Communication*: Think of ultra-aware reconfigurable radio surfaces and devices.
 {: style="text-align: justify;"}
 
-My work has won Best Paper Honorable Mention and in the spirit of demonstrable systems research, Best Demo, Demo Runner-Up and Top-5 Demos as well. My research was featured in [Gizmodo](https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816) and [Hackster.io](https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3) to name a few. One of my notable impacts is in transferring our academic work to an interested global company, Bridgestone Inc. 
+I have built systems that use millimeter wave radio frequencies for realizing key applications in transportation, robotics, critical infrastructure monitoring and wireless communication.
+{: style="text-align: justify;"}
+
+My work has won Best Paper Honorable Mention and in the spirit of demonstrable systems research, Best Demo, Demo Runner-Up and Top-5 Demos as well. My research was also featured in [Gizmodo](https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816) and [Hackster.io](https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3) to name a few. One of my notable impacts is in transferring our academic work to an interested global company, Bridgestone Inc. 
 {: style="text-align: justify;"}
 
 I am on the job market this cycle! 

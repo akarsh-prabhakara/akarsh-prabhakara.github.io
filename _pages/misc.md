@@ -53,7 +53,7 @@ I have recorded over 6500km on my bike (with many more unrecorded miles), since 
 {: style="text-align: justify;"}
 * [Mt. Diablo](https://en.wikipedia.org/wiki/Mount_Diablo) summit:  1600m elevation gain over 90km on a hot summer Californian afternoon with poorly planned nutrition.
 * My fastest 100km in 3:45 hours on a flat [Great Allengheny Passage trail](https://gaptrail.org/).
-* Longest bike-camping trip spanning 5 days and 575km with my cycling buddy and colleague, John Miller. We started from Pittsburgh, went up the Appalachian Mountains to reach the [Eastern Continental Divide](https://en.wikipedia.org/wiki/Eastern_Continental_Divide) and the pretty town of Frostburg. We then followed the [C&O canal trail](https://www.canaltrust.org/plan/co-canal-towpath/) running parallel to the Potomac river all the way till Washington DC.
+* Longest bike-camping trip spanning 5 days and 575km with my cycling buddy and colleague, John Miller. We started from Pittsburgh, went up the Appalachian Mountains to reach the [Eastern Continental Divide](https://en.wikipedia.org/wiki/Eastern_Continental_Divide) and the pretty town of Frostburg. We then followed the [C&O canal trail](https://www.canaltrust.org/plan/co-canal-towpath/) running parallel to the Potomac river, all the way till Washington DC.
 {: style="text-align: justify;"}
 I have spent some of my best moments riding a bike and here are a few pictures to bring them to you.
 

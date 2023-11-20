@@ -12,6 +12,10 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.press %}
+  {% assign press = post.press | markdownify | remove: "<p>" | remove: "</p>" %}
+{% endif %}
+
 
 <div class="{{ include.type | default: "list" }}__item">
 <!-- <div> -->
@@ -90,6 +94,9 @@
         <!-- {% if post.pdf and post.bibtex  %}
         <br /><a href=" {{ post.pdf }} ">[PDF]</a> &#124; <a href=" {{post.bibtex}}">[BibTeX]</a>    
         {% endif %} -->
+        {% if post.press%}
+        <br /><font size="4"> <span markdownn="1">{{press}}</span> </font>  
+        {% endif %}   
         {% if post.award%}
         <br /><font size="4"><span style="color: red"><i>{{post.award}}</i></span>           </font>  
         {% endif %}   

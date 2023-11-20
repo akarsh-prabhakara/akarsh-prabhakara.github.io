@@ -9,7 +9,7 @@ author_profile: true
  {: .text-justify}
  - my work enables reliable perception in transportation, critical infrastructure monitoring and robotics in harsh conditions. I want to build on top of this perception and close the loop to create practical, full fledged autonomous systems.
  {: .text-justify} 
- - my work augments next generation communication devices to be ultra-aware of their environment. I have built communication systems that learn from their environment in new ways to schedule resources efficiently manifesting in large improvements in signal strength and throughput.
+ - my work augments next generation communication devices to be ultra-aware of their environment. I have built communication systems that learn from their environment in new ways to schedule resources efficiently, manifesting in large improvements in signal strength and throughput.
 {: .text-justify}
  - we can envision radio frequency sensing to be deployed on emerging portable, handheld and wearable devices. This opens up new possibilities to look through new types of occlusions in new scenarios, enabling new applications.
 {: .text-justify}

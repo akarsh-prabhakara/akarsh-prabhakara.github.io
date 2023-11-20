@@ -1,6 +1,7 @@
 ---
 title: "TagFi: Locating Ultra-Low Power WiFi Tags Using Unmodified WiFi Infrastructure"
 collection: publications
+image: /images/tagfi_sq.jpg
 permalink: /publications/tagfi-ubicomp21/
 date: 2021-12-19 00:59:00 +0500
 venue: 'Ubicomp'

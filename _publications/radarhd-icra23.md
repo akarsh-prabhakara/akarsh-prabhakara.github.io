@@ -1,6 +1,7 @@
 ---
 title: "High Resolution Point Clouds from mmWave Radar"
 collection: publications
+image: /images/radarhd_sq.jpg
 permalink: /publications/radarhd-icra23/
 date: 2023-01-25 01:01:00 +0500
 venue: 'IEEE ICRA'

@@ -77,18 +77,18 @@ social:
   # google:
     # tracking_id          : G-HJ4MCXNFYW
 
-google-analytics: G-HJ4MCXNFYW
+google-analytics: 
 
 # Site Author
 author:
-  name             : #"Your Sidebar Name"
+  name             : "Akarsh Prabhakara"
   avatar           : "dp_square.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #aprabhak@andrew.cmu.edu
+  googlescholar    : "https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en"
+  email            : aprabhak@andrew.cmu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

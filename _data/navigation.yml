@@ -6,5 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Awards"
+    url: /awards/
+
   - title: "CV"
     url: /files/CV.pdf
+
+  - title: "Misc."
+    url: /misc/

@@ -15,21 +15,21 @@ author_profile: true
 <h2>Conference Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
-      {% include archive-single.html %}
+      {% include archive-single-image.html %}
   {% endif %}
 {% endfor %}
 
 <h2>Symposiums, Workshops</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'symposium' %}
-      {% include archive-single.html %}
+      {% include archive-single-image.html %}
   {% endif %}
 {% endfor %}
 
 <h2>Posters, Demos, Magazines</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'poster' %}
-      {% include archive-single.html %}
+      {% include archive-single-image.html %}
   {% endif %}
 {% endfor %}
 

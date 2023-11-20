@@ -1,6 +1,7 @@
 ---
 title: "Millimetro: mmWave Retro-Reflective Tags for Accurate, Long Range Localization"
 collection: publications
+image: /images/millimetro_sq.jpg
 permalink: /publications/millimetro-mobicom21/
 date: 2021-12-19 01:01:00 +0500
 venue: 'ACM MobiCom'

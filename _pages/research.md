@@ -5,13 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
- ![image-center](/images/research.png){: .align-right width="329px"} Visual sensors such as cameras are ubiquitous today in almost all our devices. Lidars can perceive even in the absence of ambient light. However, for perceiving objects in non line of sight conditions, through thick smoke or fog or debris, visible and infrared light doesn't penetrate all the way. Radio frequency is known to pass through buildings and walls and reach your cell phones from towers far away. The field of **wireless sensing** uses radio frequency signals to perceive the world in conditions challenging to other wavelengths. 
+ ![image-center](/images/research_themes.jpg){: .align-right width="329px"} My research builds practical systems to address core problems spanning embedded, cyber-physical systems, wireless systems and robotics. I am interested in pushing the limits of radio frequency sensing capabilities on embedded scale platforms. With *high resolution, see-through imaging* from such tiny compute platforms: 
+ {: .text-justify}
+ - my work enables reliable perception in transportation, critical infrastructure monitoring and robotics in harsh conditions. I want to build on top of this perception and close the loop to create practical, full fledged autonomous systems.
+ {: .text-justify} 
+ - my work augments next generation communication devices to be ultra-aware of their environment. I have built communication systems that learn from their environment in new ways to schedule resources efficiently manifesting in large improvements in signal strength and throughput.
+{: .text-justify}
+ - we can envision radio frequency sensing to be deployed on emerging portable, handheld and wearable devices. This opens up new possibilities to look through new types of occlusions in new scenarios, enabling new applications.
 {: .text-justify}
 
- As can be seen from the figure, today's state-of-the-art RF sensors are inferior in many aspects compared to lidars and cameras. For example, while camera and lidar offer angular resolutions of about 0.01&deg; and 0.1&deg; respectively, the best commodity radars are atleast 10 times worser. In my research, I build **application-specific RF sensing** systems that address some of these challenges using signal processing, hardware design, machine learning and sensor fusion techniques. 
- {: .text-justify}
+My research takes a full-stack approach building novel embedded hardware, machine learning and signal processing techniques, compute accelerators, and architecting end-end system to manage constraints on communication, real-time latency and reliability.
+{: .text-justify}
 
 ---
+
+## Selected Research Projects
 
 {% include base_path %}
 

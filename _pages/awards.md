@@ -14,9 +14,9 @@ gallery1:
     title: "A successful makeshift demo during Covid"
 ---
 
-* Top 5 Best Demos, ACM MobiCom 2023
 * Best Presentation Runner Up, Ph.D. Forum ACM/IEEE IPSN 2023
 * Best Demo Runner Up, ACM/IEEE IPSN 2023
+* Top 5 Best Demos, ACM MobiCom 2023
 * Trailblazer Alumni - Kumarans Educational Council 2022
 * ACM GetMobile Research Highlight for Quasar 2022
 * Corporate Startup Lab Fellowship 2021

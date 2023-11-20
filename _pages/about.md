@@ -29,7 +29,7 @@ My research interests broadly lie in wireless systems and cyber-physical systems
 I have built systems that use millimeter wave radio frequencies for realizing key applications in transportation, robotics, critical infrastructure monitoring and wireless communication.
 {: style="text-align: justify;"}
 
-My work has won Best Paper Honorable Mention and in the spirit of demonstrable systems research, Best Demo, Demo Runner-Up and Top-5 Demos as well. My research was also featured in [Gizmodo](https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816) and [Hackster.io](https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3) to name a few. One of my notable impacts is in transferring our academic work to an interested global company, Bridgestone Inc. 
+My work has won Best Paper Honorable Mention and in the spirit of demonstrable systems research, Best Demo and Demo Runner-Up as well. My research was also featured in [Gizmodo](https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816) and [Hackster.io](https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3) to name a few. One of my notable impacts is in transferring our academic work to an interested global company, Bridgestone Inc. 
 {: style="text-align: justify;"}
 
 I am on the job market this cycle! 

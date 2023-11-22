@@ -64,7 +64,7 @@ If cycling is for the heart, I like to think of running as for the mind. I start
 {: style="text-align: justify;"}
 
 ## Photography
-I take pride in taking good photos (sometimes) and recording on my GoPro and making videos ([Universal Studios Orlando](https://drive.google.com/file/d/1-Qb8tOqpPv6xuD0FccJ7FceoK-_20BZ0/view?usp=sharing), [New Orleans Swamp Tour](https://drive.google.com/file/d/1Xr5G7i54Lebdc--zE4q9k7RX0ThGx-9g/view?usp=sharing), [First Time Skiing](https://drive.google.com/file/d/1-cuQkKyUbZ-QqzyOfA3FU2ES-X6GUeaa/view?usp=sharing)). 
+I take pride in taking good photos (sometimes) and recording on my GoPro and making videos ([Universal Studios Orlando](https://drive.google.com/file/d/1-Qb8tOqpPv6xuD0FccJ7FceoK-_20BZ0/view?usp=sharing), [New Orleans Swamp Tour](https://drive.google.com/file/d/1Xr5G7i54Lebdc--zE4q9k7RX0ThGx-9g/view?usp=sharing)). 
 {: style="text-align: justify;"}
 
 {% include gallery id='gallery2' %}

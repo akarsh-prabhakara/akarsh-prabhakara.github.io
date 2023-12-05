@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "RadarHD"
-collection: projects
-permalink: /projects/radarhd/
+collection: research
+permalink: /research/radarhd/
 redirect_from: 
   - /radarhd/
 excerpt: |

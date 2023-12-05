@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Millimetro"
-collection: projects
-permalink: /projects/millimetro/
+collection: research
+permalink: /research/millimetro/
 redirect_from: 
   - /millimetro/
 excerpt: |

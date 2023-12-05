@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Osprey"
-collection: projects
-permalink: /projects/osprey/
+collection: research
+permalink: /research/osprey/
 redirect_from: 
   - /osprey/
 excerpt: |

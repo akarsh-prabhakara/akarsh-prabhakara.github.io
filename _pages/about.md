@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-gallery:
+gallery1:
   - url: radarhd
     image_path: radarhd-2.jpg
     title: RadarHD - See through smoke
@@ -16,6 +16,15 @@ gallery:
   - url: osprey
     image_path: osprey.jpg
     title: Osprey - See through dust
+  - url: metamoran
+    image_path: metamoran_sq2.jpg
+    title: "Metamoran - Fusion of RF and Camera to achieve best of both worlds"
+  - url: tagfi
+    image_path: tagfi_highlight.jpg
+    title: "TagFi - Low power tags for locating objects with WiFi"
+  - url: platypus
+    image_path: platypus1.jpg
+    title: "Platypus - Low power tags for micro-crack monitoring on bridges"
 ---
 
 I am a Ph.D. candidate in ECE at Carnegie Mellon University. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html). 
@@ -35,13 +44,18 @@ My work has won Best Paper Honorable Mention and in the spirit of demonstrable s
 I am on the job market this cycle! 
 {: style="color:red; text-align: center;"}
 
-Have a look at my [CV](/files/CV.pdf), [research](/files/research_statement.pdf), [teaching](/files/teaching_statement.pdf) and [diversity](/files/diversity_statement.pdf) statements and please reach out to me if you are interested.
+Have a look at my [CV](/files/CV_Akarsh_Prabhakara.pdf), [research](/files/Research_Statement_Akarsh_Prabhakara.pdf), [teaching](/files/Teaching_Statement_Akarsh_Prabhakara.pdf) and [diversity](/files/Diversity_Statement_Akarsh_Prabhakara.pdf) statements and please reach out to me if you are interested.
 
+Learn more about my research [here](/research/). Below are quick links to a few highlighted projects. 
 
 ## Research Highlights
-{% include gallery %}
-
+{% include gallery id='gallery1' %}
  <table>
-    <th><iframe src="https://www.youtube.com/embed/me8ozpgyy0M?si=_vY5_nZS2ERhh6ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
-    <th><iframe src="https://www.youtube.com/embed/jhasOfGaS5w?si=1WHQZ5h-FFD6Tupm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
+    <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/me8ozpgyy0M?si=_vY5_nZS2ERhh6ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
+    <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/jhasOfGaS5w?si=1WHQZ5h-FFD6Tupm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
 </table> 
+
+## Contact
+aprabhak[AT]andrew.cmu.edu<br>
+2313G, Robert Mehrabian Collaborative Innovation Center<br>
+4720 Forbes Avenue, Pittsburgh, PA 15213<br>

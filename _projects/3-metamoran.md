@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Metamoran"
-collection: projects
-permalink: /projects/metamoran/
+collection: research
+permalink: /research/metamoran/
 redirect_from: 
   - /metamoran/
 excerpt: |

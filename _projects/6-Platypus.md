@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Platypus"
-collection: research
+collection: projects
 permalink: /research/platypus/
 redirect_from: 
   - /platypus/

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Quasar"
-collection: research
+collection: projects
 permalink: /research/quasar/
 redirect_from: 
   - /quasar/

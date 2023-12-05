@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "TagFi"
-collection: research
+collection: projects
 permalink: /research/tagfi/
 redirect_from: 
   - /tagfi/

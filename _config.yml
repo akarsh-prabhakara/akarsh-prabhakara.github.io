@@ -211,7 +211,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: research
+      type: projects
     values:
       layout: single
       author_profile: true

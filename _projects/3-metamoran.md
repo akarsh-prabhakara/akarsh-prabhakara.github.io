@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Metamoran"
-collection: research
+collection: projects
 permalink: /research/metamoran/
 redirect_from: 
   - /metamoran/

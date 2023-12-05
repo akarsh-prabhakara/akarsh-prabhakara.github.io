@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Zoom Out"
-collection: research
+collection: projects
 permalink: /research/zoomout/
 redirect_from: 
   - /zoomout/

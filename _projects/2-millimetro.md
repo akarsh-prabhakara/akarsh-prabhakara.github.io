@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Millimetro"
-collection: research
+collection: projects
 permalink: /research/millimetro/
 redirect_from: 
   - /millimetro/

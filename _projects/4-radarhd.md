@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "RadarHD"
-collection: research
+collection: projects
 permalink: /research/radarhd/
 redirect_from: 
   - /radarhd/

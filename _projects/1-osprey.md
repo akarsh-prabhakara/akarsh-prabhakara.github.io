@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Osprey"
-collection: research
+collection: projects
 permalink: /research/osprey/
 redirect_from: 
   - /osprey/

@@ -25,7 +25,7 @@ My research takes a full-stack approach building novel embedded hardware, machin
 
 {% assign my_research = "Osprey, Millimetro, Metamoran, RadarHD, Quasar, Platypus, TagFi, Zoom Out, cdhc" | split: ", " %}
 
-{% for post in site.research%}
+{% for post in site.projects%}
   {% if my_research contains post.title %}
   	{% include archive-single.html %}
   {% endif %}

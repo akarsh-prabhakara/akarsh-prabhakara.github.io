@@ -5,6 +5,7 @@ collection: projects
 permalink: /research/radarhd/
 redirect_from: 
   - /radarhd/
+  - /projects/radarhd/
 excerpt: |
  ![image-center](/images/radarhd.jpg){: .align-right width="320px"} How can we enable high quality perception for robots navigating in harsh environments with smoke or fog? Camera or lidar based perception would suffer in these conditions. We explore a millimeter wave radar based perception for seeing past these occlusions. We combat the poor spatial resolution of these radars by training an end-to-end deep learning super-resolution network that outputs *lidar-like* point clouds from just a cheap, single-chip radar!  We also show RadarHD's robustness in smoke by testing with smoke bombs in a smoke chamber.
  {: .text-justify}

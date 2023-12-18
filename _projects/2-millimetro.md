@@ -5,6 +5,7 @@ collection: projects
 permalink: /research/millimetro/
 redirect_from: 
   - /millimetro/
+  - /projects/millimetro/
 excerpt: |
  ![image-center](/images/millimetro.png){: .align-right width="329px"} How can cars perceive critical roadside infrastructure even when weather conditions are not favorable for visual sensors? Millimetro tackles this by designing low power radio frequency tags that can be mounted on such infrastructure and builds decoding algorithms that run on radars in cars to decode, identify and accurately localize tags. 
  {: .text-justify}

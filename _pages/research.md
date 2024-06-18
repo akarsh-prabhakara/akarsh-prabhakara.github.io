@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
- ![image-center](/images/research_themes.jpg){: .align-right width="329px"} My research builds practical systems to address core problems spanning embedded, cyber-physical systems, wireless systems and robotics. I am interested in pushing the limits of radio frequency sensing capabilities on embedded scale platforms. With *high resolution, see-through imaging* from such tiny compute platforms: 
+ ![image-center](/images/research_themes.jpg){: .align-right width="329px"} My research builds practical systems to address core problems spanning embedded, cyber-physical systems, wireless systems and robotics. I am interested in pushing the limits of radio frequency sensing capabilities on embedded scale platforms. With *high resolution, see-through occlusion sensing* from such tiny compute platforms: 
  {: .text-justify}
  - my work enables reliable perception in transportation, critical infrastructure monitoring and robotics in harsh conditions. I want to build on top of this perception and close the loop to create practical, full fledged autonomous systems.
  {: .text-justify} 
@@ -23,7 +23,7 @@ My research takes a full-stack approach building novel embedded hardware, machin
 
 {% include base_path %}
 
-{% assign my_research = "Osprey, Millimetro, Metamoran, RadarHD, Quasar, Platypus, TagFi, Zoom Out, cdhc" | split: ", " %}
+{% assign my_research = "Osprey, Millimetro, Metamoran, RadarHD, DART, Quasar, Platypus, TagFi, Zoom Out, cdhc" | split: ", " %}
 
 {% for post in site.projects%}
   {% if my_research contains post.title %}

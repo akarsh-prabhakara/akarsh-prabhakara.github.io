@@ -13,6 +13,9 @@
 <loc>http://localhost:4000/research/radarhd/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/research/dart/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/research/quasar/</loc>
 </url>
 <url>
@@ -148,7 +151,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/CV_Akarsh_Prabhakara.pdf</loc>
-<lastmod>2024-05-07T11:17:38-04:00</lastmod>
+<lastmod>2024-06-18T08:23:53-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/dart-cvpr24.pdf</loc>

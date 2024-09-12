@@ -25,6 +25,9 @@
 <loc>http://localhost:4000/research/tagfi/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/research/hydra/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/research/zoomout/</loc>
 </url>
 <url>
@@ -96,6 +99,10 @@
 <lastmod>2024-05-06T16:01:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/publications/hydra-mobicom24/</loc>
+<lastmod>2024-09-06T16:01:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -151,7 +158,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/CV_Akarsh_Prabhakara.pdf</loc>
-<lastmod>2024-06-18T08:23:53-04:00</lastmod>
+<lastmod>2024-09-12T06:48:11-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/dart-cvpr24.pdf</loc>

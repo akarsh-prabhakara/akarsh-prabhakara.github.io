@@ -27,7 +27,7 @@ gallery1:
     title: "Platypus - Low power tags for micro-crack monitoring on bridges"
 ---
 
-I am an incoming assistant professor in CS at University of Wisconsin-Madison starting Jan 2025. Currently, I am a Ph.D. candidate in ECE at Carnegie Mellon University. I am coadvised by [Prof. Anthony Rowe](https://users.ece.cmu.edu/~agr) and [Prof. Swarun Kumar](http://www.andrew.cmu.edu/user/swarunk/index.html).
+I am an incoming assistant professor in CS at University of Wisconsin-Madison starting Jan 2025. Currently, I am a Ph.D. candidate in ECE at Carnegie Mellon University.
 
 My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. Currently, I am interested in the following themes:
 {: style="text-align: justify;"}
@@ -56,8 +56,3 @@ Learn more about my research [here](/research/). Below are quick links to a few 
     <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/me8ozpgyy0M?si=_vY5_nZS2ERhh6ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
     <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/jhasOfGaS5w?si=1WHQZ5h-FFD6Tupm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
 </table> 
-
-## Contact
-aprabhak[AT]andrew.cmu.edu<br>
-2313G, Robert Mehrabian Collaborative Innovation Center<br>
-4720 Forbes Avenue, Pittsburgh, PA 15213<br>

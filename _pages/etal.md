@@ -46,15 +46,17 @@ gallery3:
 I love spending time outdoors. My go-to activities are cycling and running -- in that order. I am enthusiastic about playing most sports. Tennis and squash are my latest favorites. Of course, cricket is an all-time favorite.
 
 ## Cycling
-There are few things as satisfying as a grueling uphill ride followed by a breezy downhill swirl. I picked up cycling in the first year of Ph.D. and it just clicked. I am grateful to Pittsburgh for the excellent cycling infrastructure spanning amazing rolling hills and river trails. Car drivers are friendly here and accomdating of cyclists. I ride a 38 year old cycle --- [Dave Scott Centurion Ironman 1985](https://vintage-centurion.com/models/competition/ironman/85-86.shtml). Back in its day, it was the most premier cycle. I continue to ride it today to decide if it's the rider or the cycle that really matters.
+There are few things as satisfying as a grueling uphill ride followed by a breezy downhill swirl. I picked up cycling in the first year of Ph.D. and it just clicked. I am grateful to Pittsburgh for the excellent cycling infrastructure spanning amazing rolling hills and river trails. Car drivers are friendly here and accomdating of cyclists. I ride a pretty old cycle --- [Dave Scott Centurion Ironman 1985](https://vintage-centurion.com/models/competition/ironman/85-86.shtml). Back in its day, it was the most premier cycle. I continue to ride it today to decide if it's the rider or the cycle that really matters.
 {: style="text-align: justify;"}
 
-I have recorded over 7500km on my bike (with many more unrecorded miles), since 2019, with a [cycling h-index](https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling) of 43 => 43 rides of > 43km. Out of these, my favorites are:
+I have recorded over 7900km on my bike (with many more unrecorded miles), since 2019, with a [cycling h-index](https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling) of 44 => 44 rides of > 44km. Out of these, my favorites are:
 {: style="text-align: justify;"}
 * [Mt. Diablo](https://en.wikipedia.org/wiki/Mount_Diablo) summit:  1600m elevation gain over 90km on a hot summer Californian afternoon with poorly planned nutrition.
 * My fastest 100km in 3:45 hours on a flat [Great Allengheny Passage trail](https://gaptrail.org/).
 * Longest bike-camping trip spanning 5 days and 575km with my cycling buddy and colleague, John Miller. We started from Pittsburgh, went up the Appalachian Mountains to reach the [Eastern Continental Divide](https://en.wikipedia.org/wiki/Eastern_Continental_Divide) and the pretty town of Frostburg. We then followed the [C&O canal trail](https://www.canaltrust.org/plan/co-canal-towpath/) running parallel to the Potomac river, all the way till Washington DC.
 {: style="text-align: justify;"}
+* [Leh-Khardung-La](https://en.wikipedia.org/wiki/Khardung_La): One of the world's highest motorable roads.
+
 I have spent some of my best moments riding a bike and here are a few pictures to bring them to you.
 
 {% include gallery id='gallery1' %}
@@ -64,7 +66,8 @@ If cycling is for the heart, I like to think of running as for the mind. I start
 {: style="text-align: justify;"}
 
 ## Photography
-I take pride in taking good photos (sometimes) and recording on my GoPro and making videos ([Universal Studios Orlando](https://drive.google.com/file/d/1-Qb8tOqpPv6xuD0FccJ7FceoK-_20BZ0/view?usp=sharing), [New Orleans Swamp Tour](https://drive.google.com/file/d/1Xr5G7i54Lebdc--zE4q9k7RX0ThGx-9g/view?usp=sharing)). 
+I take pride in taking good photos (sometimes) and recording on my GoPro and making videos.
+ <!-- ([Universal Studios Orlando](https://drive.google.com/file/d/1-Qb8tOqpPv6xuD0FccJ7FceoK-_20BZ0/view?usp=sharing), [New Orleans Swamp Tour](https://drive.google.com/file/d/1Xr5G7i54Lebdc--zE4q9k7RX0ThGx-9g/view?usp=sharing)).  -->
 {: style="text-align: justify;"}
 
 {% include gallery id='gallery2' %}

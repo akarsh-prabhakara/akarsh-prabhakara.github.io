@@ -27,17 +27,17 @@ gallery1:
     title: "Platypus - Low power tags for micro-crack monitoring on bridges"
 ---
 
-I am an incoming assistant professor in CS at University of Wisconsin-Madison starting Jan 2025. Currently, I am a Ph.D. candidate in ECE at Carnegie Mellon University.
+I am an incoming assistant professor in CS at University of Wisconsin-Madison starting Jan 2025.
 
 My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. Currently, I am interested in the following themes:
 {: style="text-align: justify;"}
 1. *Machine Learning driven radio frequency systems* ([CVPR 24](/files/dart-cvpr24.pdf), [ICRA 23](/files/radarhd-icra23.pdf))
 2. *Wireless for robust autonomous systems* ([IROS 22](/files/metamoran-iros22.pdf), [MobiCom 21](/files/millimetro-mobicom21.pdf))
-3. *New paradigms in communication systems* ([MobiCom 21](/files/quasar-mobicom21.pdf))
+3. *New paradigms in communication systems* ([MobiCom 24](https://www.sigmobile.org/mobicom/2024/), [MobiCom 21](/files/quasar-mobicom21.pdf))
 4. *Novel embedded applications of wireless signals* ([MobiSys 20](/files/osprey-mobisys20.pdf), [UbiComp 21](/files/tagfi-ubicomp21.pdf), [IPSN 23](/files/platypus-ipsn23.pdf))
 {: style="text-align: justify;"}
 
-If this seems interesting to you, please shoot me an email!
+I am actively hiring Ph.D. students this application cycle for Fall 2025 (Dec 2024). If these or allied topics seem interesting to you, please shoot me an email! Make sure to also apply at [UW-Madison CS](https://grad.wisc.edu/apply/start/).
 
 <!-- I have built systems that use millimeter wave radio frequencies for realizing key applications in transportation, robotics, critical infrastructure monitoring and pushing the limits of wireless communication.
 {: style="text-align: justify;"} -->

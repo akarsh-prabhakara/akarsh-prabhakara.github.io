@@ -49,7 +49,7 @@ I love spending time outdoors. My go-to activities are cycling and running -- in
 There are few things as satisfying as a grueling uphill ride followed by a breezy downhill swirl. I picked up cycling in the first year of Ph.D. and it just clicked. I am grateful to Pittsburgh for the excellent cycling infrastructure spanning amazing rolling hills and river trails. Car drivers are friendly here and accomdating of cyclists. I ride a pretty old cycle --- [Dave Scott Centurion Ironman 1985](https://vintage-centurion.com/models/competition/ironman/85-86.shtml). Back in its day, it was the most premier cycle. I continue to ride it today to decide if it's the rider or the cycle that really matters.
 {: style="text-align: justify;"}
 
-I have recorded over 7900km on my bike (with many more unrecorded miles), since 2019, with a [cycling h-index](https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling) of 44 => 44 rides of > 44km. Out of these, my favorites are:
+I have recorded over 8000 km on my bike (with many more unrecorded miles), since 2019, with a [cycling h-index](https://en.wikipedia.org/wiki/Arthur_Eddington#Eddington_number_for_cycling) of 44 => 44 rides of > 44km. Out of these, my favorites are:
 {: style="text-align: justify;"}
 * [Mt. Diablo](https://en.wikipedia.org/wiki/Mount_Diablo) summit:  1600m elevation gain over 90km on a hot summer Californian afternoon with poorly planned nutrition.
 * My fastest 100km in 3:45 hours on a flat [Great Allengheny Passage trail](https://gaptrail.org/).

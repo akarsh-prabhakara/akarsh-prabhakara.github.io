@@ -33,7 +33,7 @@ My research interests broadly lie in wireless systems and cyber-physical systems
 {: style="text-align: justify;"}
 1. *Machine Learning driven radio frequency systems* ([CVPR 24](/files/dart-cvpr24.pdf), [ICRA 23](/files/radarhd-icra23.pdf))
 2. *Wireless for robust autonomous systems* ([IROS 22](/files/metamoran-iros22.pdf), [MobiCom 21](/files/millimetro-mobicom21.pdf))
-3. *New paradigms in communication systems* ([MobiCom 24](https://www.sigmobile.org/mobicom/2024/), [MobiCom 21](/files/quasar-mobicom21.pdf))
+3. *New paradigms in communication systems* ([MobiCom 24](/files/hydra-mobicom24.pdf), [MobiCom 21](/files/quasar-mobicom21.pdf))
 4. *Novel embedded applications of wireless signals* ([MobiSys 20](/files/osprey-mobisys20.pdf), [UbiComp 21](/files/tagfi-ubicomp21.pdf), [IPSN 23](/files/platypus-ipsn23.pdf))
 {: style="text-align: justify;"}
 

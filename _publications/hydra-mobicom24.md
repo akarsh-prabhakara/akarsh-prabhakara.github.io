@@ -6,7 +6,7 @@ permalink: /publications/hydra-mobicom24/
 date: 2024-09-07 01:01:00 +0500
 venue: 'ACM MobiCom'
 bibtex: ''
-pdf: 'https://www.sigmobile.org/mobicom/2024/'
+pdf: '/files/hydra-mobicom24.pdf'
 pubtype: 'conference'
 authors: 'Nishant Mehrotra, Divyanshu Pandey, <ins>Akarsh Prabhakara</ins>, Yawen Liu, Swarun Kumar, Ashutosh Sabharwal'
 award: ''

@@ -27,7 +27,7 @@ gallery1:
     title: "Platypus - Low power tags for micro-crack monitoring on bridges"
 ---
 
-I am an incoming assistant professor in CS at University of Wisconsin-Madison starting Jan 2025.
+I am an incoming assistant professor in CS at University of Wisconsin-Madison starting Jan 2025. Currently, I am a Ph.D. candidate in ECE at Carnegie Mellon University.
 
 My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. Currently, I am interested in the following themes:
 {: style="text-align: justify;"}

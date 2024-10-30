@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-<h2>Conference Papers</h2>
+<h2>Conference and Journal Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
       {% include archive-single-image.html %}

@@ -114,13 +114,13 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/awards/</loc>
+<loc>http://localhost:4000/_pages/awards/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/etal/</loc>
+<loc>http://localhost:4000/_pages/etal/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publications/</loc>

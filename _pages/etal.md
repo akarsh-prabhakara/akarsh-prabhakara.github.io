@@ -1,5 +1,5 @@
 ---
-permalink: /etal/
+# permalink: /etal/
 title: "Miscellaneous"
 author_profile: true
 gallery1:

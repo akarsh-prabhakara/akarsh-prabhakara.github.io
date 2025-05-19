@@ -1,5 +1,5 @@
 ---
-permalink: /awards/
+# permalink: /awards/
 title: "Awards"
 author_profile: true
 gallery1:

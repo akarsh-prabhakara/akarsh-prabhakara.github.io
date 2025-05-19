@@ -6,11 +6,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Awards"
-  #   url: /awards/
-
   - title: "CV"
     url: /files/CV_Akarsh_Prabhakara.pdf
-
-  # - title: "Et Al."
-  #   url: /etal/

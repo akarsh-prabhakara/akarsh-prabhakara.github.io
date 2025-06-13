@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Hello there!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 gallery1:
+  - url: metamorph
+    image_path: metamorph.png
+    title: "Metamorph - Morphing surfaces for wireless signal enhancement"
+  - url: hydra
+    image_path: hydra_sq.jpg
+    title: "Hydra - Multi-bounce mmWave imaging"
   - url: dart
     image_path: dart_sq.jpg
     title: "DART - NeRF for accurate radar novel view synthesis"
@@ -19,22 +25,18 @@ gallery1:
   - url: osprey
     image_path: osprey.jpg
     title: Osprey - See through dust
-  - url: metamoran
-    image_path: metamoran_sq2.jpg
-    title: "Metamoran - Fusion of RF and Camera to achieve best of both worlds"
-  - url: platypus
-    image_path: platypus1.jpg
-    title: "Platypus - Low power tags for micro-crack monitoring on bridges"
 ---
 
-I am an assistant professor in CS and affiliated with ECE at the University of Wisconsin - Madison.
+I am an assistant professor in Computer Sciences at the University of Wisconsin - Madison.
 
-My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. Currently, I am interested in the following themes:
+My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. 
+
+In pursuit of this vision, we have built systems along the following themes:
 {: style="text-align: justify;"}
 1. *Machine Learning driven radio frequency systems* ([CVPR 24](/files/dart-cvpr24.pdf), [ICRA 23](/files/radarhd-icra23.pdf))
-2. *Wireless for robust autonomous systems* ([IROS 22](/files/metamoran-iros22.pdf), [MobiCom 21](/files/millimetro-mobicom21.pdf))
+2. *Wireless + Robotics* ([ICRA 25](/files/metamorph-icra25.pdf), [Sci Ro 24](/files/avatars-scirobotics24.pdf), [IROS 22](/files/metamoran-iros22.pdf), [MobiCom 21](/files/millimetro-mobicom21.pdf))
 3. *New paradigms in communication systems* ([MobiCom 24](/files/hydra-mobicom24.pdf), [MobiCom 21](/files/quasar-mobicom21.pdf))
-4. *Novel embedded applications of wireless signals* ([MobiSys 20](/files/osprey-mobisys20.pdf), [UbiComp 21](/files/tagfi-ubicomp21.pdf), [IPSN 23](/files/platypus-ipsn23.pdf))
+4. *Embedded applications of wireless signals* ([MobiSys 20](/files/osprey-mobisys20.pdf), [UbiComp 21](/files/tagfi-ubicomp21.pdf), [IPSN 23](/files/platypus-ipsn23.pdf))
 {: style="text-align: justify;"}
 
 I am actively hiring Ph.D. students. If these or allied topics seem interesting to you, please shoot me an email!
@@ -48,16 +50,28 @@ I am actively hiring Ph.D. students. If these or allied topics seem interesting 
 <!-- I am on the job market this cycle! 
 {: style="color:red; text-align: center;"} -->
 
-Learn more about my research [here](/research/). Below are quick links to a few highlighted projects. 
+<!-- Learn more about my research [here](/research/). Below are quick links to a few highlighted projects.  -->
 
-## Research Highlights
+### Recent News 
+<!-- keep to only recent 5 news articles -->
+*May 25*: [Metamorph](/metamorph/) presented at ICRA 25 <br>
+
+<!-- ### Students -->
+
+### Research Highlights
 {% include gallery id='gallery1' %}
- <table>
-    <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/me8ozpgyy0M?si=_vY5_nZS2ERhh6ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
-    <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/jhasOfGaS5w?si=1WHQZ5h-FFD6Tupm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
-</table> 
+ <!-- <table> -->
+    <!-- <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/me8ozpgyy0M?si=_vY5_nZS2ERhh6ry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th>
+    <th style="padding-right: 8px"><iframe src="https://www.youtube.com/embed/jhasOfGaS5w?si=1WHQZ5h-FFD6Tupm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></th> -->
+<!-- </table>  -->
+
+### Teaching
+*Fall 25*: Intro to Computer Networks (640) <br>
+*Spring 25*: Big Ideas In Wireless: Perception and Communication (839)
+
+### Affiliations 
+[UW Madison CS](https://www.cs.wisc.edu/people/faculty-2/), [UW Madison ECE](https://directory.engr.wisc.edu/ece/), [MadNets](https://madnets.cs.wisc.edu/)
 
  <!-- Research themes
- Students
- Teaching
- Sponsors -->
+ Sponsors : on the group webpage
+ -->

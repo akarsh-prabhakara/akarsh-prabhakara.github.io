@@ -27,15 +27,15 @@ gallery1:
     title: Osprey - See through dust
 ---
 
-I am an assistant professor in Computer Sciences at the University of Wisconsin - Madison.
+I am an assistant professor in the [Department of Computer Sciences](https://www.cs.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/). I am also affiliated with the [Department of Electrical and Computer Engineering](https://directory.engr.wisc.edu/ece/). Previously, I went to [CMU](https://www.cmu.edu/) for my Ph.D. where I worked with Prof. [Anthony Rowe](https://users.ece.cmu.edu/~agr/) and Prof. [Swarun Kumar](https://swarunkumar.com/), and to [NITK Surathkal](https://www.nitk.ac.in/) for B.Tech.
 
 My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. 
 
 In pursuit of this vision, we have built systems along the following themes:
 {: style="text-align: justify;"}
 1. *Machine Learning driven radio frequency systems* ([CVPR 24](/files/dart-cvpr24.pdf), [ICRA 23](/files/radarhd-icra23.pdf))
-2. *Wireless + Robotics* ([ICRA 25](/files/metamorph-icra25.pdf), [Sci Ro 24](/files/avatars-scirobotics24.pdf), [IROS 22](/files/metamoran-iros22.pdf), [MobiCom 21](/files/millimetro-mobicom21.pdf))
-3. *New paradigms in communication systems* ([MobiCom 24](/files/hydra-mobicom24.pdf), [MobiCom 21](/files/quasar-mobicom21.pdf))
+2. *New paradigms in communication systems* ([MobiCom 24](/files/hydra-mobicom24.pdf), [MobiCom 21](/files/millimetro-mobicom21.pdf), [MobiCom 21](/files/quasar-mobicom21.pdf))
+3. *Wireless + Robotics* ([ICRA 25](/files/metamorph-icra25.pdf), [Sci Ro 24](/files/avatars-scirobotics24.pdf), [IROS 22](/files/metamoran-iros22.pdf))
 4. *Embedded applications of wireless signals* ([MobiSys 20](/files/osprey-mobisys20.pdf), [UbiComp 21](/files/tagfi-ubicomp21.pdf), [IPSN 23](/files/platypus-ipsn23.pdf))
 {: style="text-align: justify;"}
 
@@ -69,8 +69,8 @@ I am actively hiring Ph.D. students. If these or allied topics seem interesting 
 *Fall 25*: Intro to Computer Networks (640) <br>
 *Spring 25*: Big Ideas In Wireless: Perception and Communication (839)
 
-### Affiliations 
-[UW Madison CS](https://www.cs.wisc.edu/people/faculty-2/), [UW Madison ECE](https://directory.engr.wisc.edu/ece/), [MadNets](https://madnets.cs.wisc.edu/)
+<!-- ### Affiliations 
+[UW Madison CS](https://www.cs.wisc.edu/people/faculty-2/), [UW Madison ECE](https://directory.engr.wisc.edu/ece/), [MadNets](https://madnets.cs.wisc.edu/) -->
 
  <!-- Research themes
  Sponsors : on the group webpage

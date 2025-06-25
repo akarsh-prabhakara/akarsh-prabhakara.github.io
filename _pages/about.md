@@ -54,6 +54,7 @@ I am actively hiring Ph.D. students. If these or allied topics seem interesting 
 
 ### Recent News 
 <!-- keep to only recent 5 news articles -->
+*June 25*: New paper, GRT, accepted at ICCV 25 <br>
 *May 25*: [Metamorph](/metamorph/) presented at ICRA 25 <br>
 
 <!-- ### Students -->

@@ -39,7 +39,7 @@ In pursuit of this vision, we have built systems along the following themes:
 4. *Embedded applications of wireless signals* ([MobiSys 20](/files/osprey-mobisys20.pdf), [UbiComp 21](/files/tagfi-ubicomp21.pdf), [IPSN 23](/files/platypus-ipsn23.pdf))
 {: style="text-align: justify;"}
 
-I am actively hiring Ph.D. students. If these or allied topics seem interesting to you, please shoot me an email!
+If you are interested in graduate or undergraduate research, and these or allied topics seem interesting to you, please shoot me an email!
 
 <!-- I have built systems that use millimeter wave radio frequencies for realizing key applications in transportation, robotics, critical infrastructure monitoring and pushing the limits of wireless communication.
 {: style="text-align: justify;"} -->

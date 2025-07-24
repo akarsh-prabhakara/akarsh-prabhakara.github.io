@@ -1,5 +1,5 @@
 ---
-title: "Towards Foundational Models for mmWave Radar"
+title: "Towards Foundational Models for Single-Chip Radar"
 collection: publications
 image: /images/grt.jpg
 permalink: 

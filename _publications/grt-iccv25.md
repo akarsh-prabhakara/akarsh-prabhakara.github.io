@@ -9,6 +9,6 @@ bibtex: ''
 pdf: ''
 pubtype: 'conference'
 authors: 'Tianshu Huang, <ins>Akarsh Prabhakara</ins>, Chuhan Chen, Jay Karhade, Deva Ramanan, Matthew O Toole, Anthony Rowe'
-award: 'ICCV Oral'
+award: 'ICCV Oral (64 orals / 2702 accepted papers = 2.4%)'
 excerpt_separator: ""
 ---

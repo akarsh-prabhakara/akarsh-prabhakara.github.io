@@ -27,7 +27,7 @@ gallery1:
     title: Osprey - See through dust
 ---
 
-I am an assistant professor in the [Department of Computer Sciences](https://www.cs.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/) since 2025. I am also affiliated with the [Department of Electrical and Computer Engineering](https://directory.engr.wisc.edu/ece/). Previously, I went to [CMU](https://www.cmu.edu/) for my Ph.D. where I worked with Prof. [Anthony Rowe](https://users.ece.cmu.edu/~agr/) and Prof. [Swarun Kumar](https://swarunkumar.com/).
+I am an assistant professor in the [Department of Computer Sciences](https://www.cs.wisc.edu/) at the [University of Wisconsin - Madison](https://www.wisc.edu/) since 2025. I am also affiliated with the [Department of Electrical and Computer Engineering](https://directory.engr.wisc.edu/ece/). Previously, I went to [CMU](https://www.cmu.edu/) for my Ph.D. and worked with Prof. [Anthony Rowe](https://users.ece.cmu.edu/~agr/) and Prof. [Swarun Kumar](https://swarunkumar.com/).
 
 My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials. 
 

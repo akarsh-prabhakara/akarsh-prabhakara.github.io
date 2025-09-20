@@ -5,7 +5,7 @@ weight = 1
 +++
 --- 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:5px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -23,30 +23,34 @@ weight = 1
     <img src="/images/dp_square_1.jpg" alt="Description" style="width:80%; max-width:300px; border-radius:8px;"><br>
     Email: akarsh@cs.wisc.edu<br>
     Office: 7669 Morgridge Hall<br>
-    <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV.pdf">Curriculum Vitae</a><br>
+    <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV_Akarsh_Prabhakara.pdf">Curriculum Vitae</a>
   </div>
 
-</div>
-
-<p>
+  <div style="flex:1; min-width:250px;">
+  <p>
     In pursuit of this vision, we have built systems along the following themes:
-</p>
-    <ul>
-      <li><em>Learning driven radio frequency systems</em> (<a href="/">ICCV 25</a>, <a href="/files/dart-cvpr24.pdf">CVPR 24</a>, <a href="/files/radarhd-icra23.pdf">ICRA 23</a>)</li>
-      <li><em>New wireless communication paradigms</em> (<a href="/files/hydra-mobicom24.pdf">MobiCom 24</a>, <a href="/files/millimetro-mobicom21.pdf">MobiCom 21</a>, <a href="/files/quasar-mobicom21.pdf">MobiCom 21</a>)</li>
-      <li><em>Wireless + Robotics</em> (<a href="/files/metamorph-icra25.pdf">ICRA 25</a>, <a href="/files/avatars-scirobotics24.pdf">Sci Ro 24</a>, <a href="/files/metamoran-iros22.pdf">IROS 22</a>)</li>
-      <li><em>Embedded applications of wireless signals</em> (<a href="/files/osprey-mobisys20.pdf">MobiSys 20</a>, <a href="/files/tagfi-ubicomp21.pdf">UbiComp 21</a>, <a href="/files/platypus-ipsn23.pdf">IPSN 23</a>)</li>
-    </ul>
-    <p>If you are interested in graduate or undergraduate research, and these or allied topics seem interesting to you, please shoot me an email!</p>
+      <ul>
+        <li><em>Learning driven radio frequency systems</em> (<a href="/">ICCV 25</a>, <a href="/files/dart-cvpr24.pdf">CVPR 24</a>, <a href="/files/radarhd-icra23.pdf">ICRA 23</a>)</li>
+        <li><em>New wireless communication paradigms</em> (<a href="/files/hydra-mobicom24.pdf">MobiCom 24</a>, <a href="/files/millimetro-mobicom21.pdf">MobiCom 21</a>, <a href="/files/quasar-mobicom21.pdf">MobiCom 21</a>)</li>
+        <li><em>Wireless + Robotics</em> (<a href="/files/metamorph-icra25.pdf">ICRA 25</a>, <a href="/files/avatars-scirobotics24.pdf">Sci Ro 24</a>, <a href="/files/metamoran-iros22.pdf">IROS 22</a>)</li>
+        <li><em>Embedded applications of wireless signals</em> (<a href="/files/osprey-mobisys20.pdf">MobiSys 20</a>, <a href="/files/tagfi-ubicomp21.pdf">UbiComp 21</a>, <a href="/files/platypus-ipsn23.pdf">IPSN 23</a>)</li>
+      </ul>
+      If you are interested in graduate or undergraduate research, and these or allied topics seem interesting to you, please shoot me an email!
+    </p>
+    </div>
+</div>
 
 ---
 
 ### Recent News 
 <!-- keep to only recent 5 news articles -->
-- *June 25*: New paper, GRT, accepted at ICCV 25 
-- *May 25*: [Metamorph](/metamorph/) presented at ICRA 25
+<p>
+<ul>
+<li><em>June 25</em>: New paper, GRT, accepted at ICCV 25 
+<li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
+</ul>
+</p>
 
-<!-- ### Students -->
 ---
 
 ### Research Highlights
@@ -64,7 +68,7 @@ weight = 1
     <a href="/research/#hydra">
       <img src="/images/hydra_sq.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
     </a>
-    <a href="//research/#hydra" style="margin-top:auto; text-align:center; ">
+    <a href="/research/#hydra" style="margin-top:auto; text-align:center; ">
       Multi-bounce mmWave Imaging
     </a>
   </div>
@@ -100,12 +104,15 @@ weight = 1
       mmWave Tire Sensing
     </a>
   </div>
-
 </div>
-
+<br>
 
 ---
 
 ### Teaching
-- *Fall 25*: Intro to Computer Networks (640)
-- *Spring 25*: Big Ideas In Wireless: Perception and Communication (839)
+<p>
+<ul>
+<li><em>Fall 25</em>: Intro to Computer Networks (640) 
+<li><em>Spring 25</em>: Big Ideas In Wireless: Perception and Communication (839)
+</ul>
+</p>

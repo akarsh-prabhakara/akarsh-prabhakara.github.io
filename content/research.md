@@ -254,7 +254,7 @@ weight = 10
   <br>
     <img src="/images/osprey.jpg" alt="Osprey" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
-  <div style="flex:1; min-width:400px;">
+  <div style="flex:1; min-width:100%;">
   <p>
   <a href="/files/osprey-mobisys20.pdf">Full Paper</a>,
   <a href="/files/osprey-demo-mobisys20.pdf">Demo Paper</a>,

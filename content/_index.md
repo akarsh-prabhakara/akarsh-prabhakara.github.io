@@ -26,7 +26,7 @@ weight = 1
     <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV_Akarsh_Prabhakara.pdf">Curriculum Vitae</a>
   </div>
 
-  <div style="flex:1; min-width:250px;">
+  <div style="flex:1; min-width:100%;">
   <p>
     In pursuit of this vision, we have built systems along the following themes:
       <ul>

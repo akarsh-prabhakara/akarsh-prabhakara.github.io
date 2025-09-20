@@ -6,7 +6,7 @@ weight = 20
 
 ---
 
-<h2>Conferences and Journal Papers</h2>
+<h3>Conferences and Journal Papers</h3>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
@@ -250,7 +250,7 @@ weight = 20
 
 ---
 
-<h2>Posters, Demos, Magazines</h2>
+<h3>Posters, Demos, Magazines</h3>
 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">

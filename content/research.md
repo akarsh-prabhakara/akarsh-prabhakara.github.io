@@ -26,9 +26,9 @@ weight = 10
 
 ---
 
-<h2>Machine Learning Driven RF Systems</h2>
+<h3 id="ML">Machine Learning Driven RF Systems</h3>
 
-<h3 id="dart">DART</h3>
+<h4 id="dart">DART</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -55,7 +55,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="radarhd">RadarHD</h3>
+<h4 id="radarhd">RadarHD</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -85,9 +85,9 @@ weight = 10
 
 ---
 
-<h2>New paradigms for RF communication systems</h2>
+<h3 id="comms">New paradigms for RF communication systems</h3>
 
-<h3 id="hydra">Hydra</h3>
+<h4 id="hydra">Hydra</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -110,7 +110,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="millimetro">Millimetro</h3>
+<h4 id="millimetro">Millimetro</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -138,7 +138,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="quasar">Quasar</h3> 
+<h4 id="quasar">Quasar</h4> 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -163,9 +163,9 @@ weight = 10
 
 --- 
 
-<h2>Wireless + Robotics</h2>
+<h3 id="robotics">Wireless + Robotics</h3>
 
-<h3 id="metamorph">Metamorph</h3>
+<h4 id="metamorph">Metamorph</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -189,7 +189,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="avatars">Avatars</h3> 
+<h4 id="avatars">Avatars</h4> 
 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
@@ -213,7 +213,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="metamoran">Metamoran</h3> 
+<h4 id="metamoran">Metamoran</h4> 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -238,9 +238,9 @@ weight = 10
 
 ---
 
-<h2>Embedded applications of wireless signals</h2>
+<h3 id="embedded">Embedded applications of wireless signals</h3>
 
-<h3 id="osprey">Osprey</h3>
+<h4 id="osprey">Osprey</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -280,7 +280,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="tagfi">TagFi</h3> 
+<h4 id="tagfi">TagFi</h4> 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
@@ -305,7 +305,7 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
-<h3 id="platypus">Platypus</h3> 
+<h4 id="platypus">Platypus</h4> 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 

@@ -11,7 +11,7 @@ title = "Akarsh Prabhakara"
 author = "Akarsh Prabhakara"
 copyright = "Copyright © 2025, Akarsh Prabhakara"
 languageCode = "en-US"
-#googleAnalytics = "G-HJ4MCXNFYW"
+googleAnalytics = "G-HJ4MCXNFYW"
 
 
 # Generate a nice robots.txt for SEO

@@ -1,0 +1,117 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% if post.press %}
+  {% assign press = post.press | markdownify | remove: "<p>" | remove: "</p>" %}
+{% endif %}
+
+
+<div class="{{ include.type | default: "list" }}__item">
+<!-- <div> -->
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if post.teaser %}
+      <div>
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <table cellspacing="0" cellpadding="0" style="width: 100%;">
+      <colgroup>
+        <col span="1" style="width: 75%;">
+        <col span="1" style="width: 25%;">
+     </colgroup>
+        <!-- <td> -->
+        <td style="padding:10px;width:80%;vertical-align:middle">
+        {% if post.collection == 'publications'%}
+        <h2 class="archive__item-title" itemprop="headline"><a href=" {{ post.pdf }} " style="text-decoration:none;">{{title}}</a>
+        </h2>
+        {% elsif post.collection != 'publications' %}
+        <h3 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </h3>
+        {% endif %}
+    
+        {% if post.read_time %}
+          <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+        {% endif %}
+    
+        {% if post.collection == 'teaching' %}
+              <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif post.collection == 'publications' %}
+          {% if post.authors %}
+          <font size="4">
+          {{ post.authors }} <br />
+          </font>
+          {% endif %}
+          <font size="4">
+              <i>{{ post.venue }}</i> {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            </font>
+            {% endif %}
+    
+        {% if post.collection == 'projects' %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}</p>
+    
+        {% elsif post.collection != 'projects' %}
+          {% if post.excerpt != '' and site.read_more != 'enabled' %}
+          <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+          {% elsif post.excerpt != '' and site.read_more == 'enabled' %}
+          <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+          {% endif %}
+        {% endif %}
+        
+        {% if post.citation and post.paperurl %}
+          <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+        {% elsif post.citation %}
+          <p>Recommended citation: {{ post.citation }} </p>
+        {% elsif post.paperurl and post.doi %}
+        <br /><a href=" {{ post.paperurl }} "><u>File</u></a> &#124; <a href="https://doi.org/{{ post.doi }}"><u>DOI</u></a>
+        {% elsif post.paperurl %}
+        <br /><a href=" {{ post.paperurl }} "><u>File</u></a>
+        {% elsif post.doi %}
+        <br /><a href="https://doi.org/{{ post.doi }}"><u>DOI</u></a>
+        {% endif %}
+        <!-- {% if post.pdf and post.bibtex  %}
+        <br /><a href=" {{ post.pdf }} ">[PDF]</a> &#124; <a href=" {{post.bibtex}}">[BibTeX]</a>    
+        {% endif %} -->
+        {% if post.press%}
+        <br /><font size="4"> <span markdownn="1">{{press}}</span> </font>  
+        {% endif %}   
+        {% if post.award%}
+        <br /><font size="4"><span style="color: red"><i>{{post.award}}</i></span>           </font>  
+        {% endif %}   
+        {% if post.extrainfo%}
+        <br /><i>{{post.extrainfo}}</i>   
+        {% endif %}  
+    </td>
+    <td style="padding:10px;width:20%;vertical-align:middle;text-align:center">
+      <div class="column">
+        {% if post.image %}
+        <img src="{{post.image}}" width="160">
+        {% endif %}
+      </div>
+      </td>
+    </table> 
+    
+  </article>
+</div>

@@ -16,7 +16,7 @@ weight = 10
     <p>
   </div>
   <!-- Image column -->
-  <div style="flex:0 0 300px; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
   <br>
   <br>
     <img src="/images/research_themes.jpg" alt="Description" style="width:100%; max-width:300px; border-radius:8px;">
@@ -26,7 +26,7 @@ weight = 10
 
 ---
 
-## Machine Learning Driven RF Systems
+<h2>Machine Learning Driven RF Systems</h2>
 
 <h3 id="dart">DART</h3>
 
@@ -85,7 +85,7 @@ weight = 10
 
 ---
 
-## New paradigms for RF communication systems
+<h2>New paradigms for RF communication systems</h2>
 
 <h3 id="hydra">Hydra</h3>
 
@@ -163,7 +163,7 @@ weight = 10
 
 --- 
 
-## Wireless + Robotics
+<h2>Wireless + Robotics</h2>
 
 <h3 id="metamorph">Metamorph</h3>
 
@@ -238,7 +238,7 @@ weight = 10
 
 ---
 
-## Embedded applications of wireless signals
+<h2>Embedded applications of wireless signals</h2>
 
 <h3 id="osprey">Osprey</h3>
 
@@ -254,7 +254,7 @@ weight = 10
   <br>
     <img src="/images/osprey.jpg" alt="Osprey" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
-  <div style="flex:1; min-width:250px;">
+  <div style="flex:1; min-width:400px;">
   <p>
   <a href="/files/osprey-mobisys20.pdf">Full Paper</a>,
   <a href="/files/osprey-demo-mobisys20.pdf">Demo Paper</a>,

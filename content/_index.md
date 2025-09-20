@@ -19,7 +19,7 @@ weight = 1
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 300px; text-align:center;">
+  <div style="flex:0 0 40%; text-align:center;">
     <img src="/images/dp_square_1.jpg" alt="Description" style="width:80%; max-width:300px; border-radius:8px;"><br>
     Email: akarsh@cs.wisc.edu<br>
     Office: 7669 Morgridge Hall<br>

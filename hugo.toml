@@ -11,7 +11,6 @@ title = "Akarsh Prabhakara"
 author = "Akarsh Prabhakara"
 copyright = "Copyright © 2025, Akarsh Prabhakara"
 languageCode = "en-US"
-googleAnalytics = "G-HJ4MCXNFYW"
 
 
 # Generate a nice robots.txt for SEO
@@ -25,6 +24,8 @@ ignoreErrors = ["error-disable-taxonomy"]
   publications = "/publications/"
 
 [params]
+  googleAnalytics = "G-HJ4MCXNFYW"
+  
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Akarsh Prabhakara Personal Website"
 

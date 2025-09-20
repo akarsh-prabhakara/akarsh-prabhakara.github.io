@@ -10,7 +10,7 @@ weight = 1
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
     <p>
-      I am an assistant professor in the <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a> since 2025. I am also affiliated with the <a href="https://directory.engr.wisc.edu/ece/">Department of Electrical and Computer Engineering</a>. Previously, I went to <a href="https://www.cmu.edu/">CMU</a> for my Ph.D. and worked with Prof. <a href="https://users.ece.cmu.edu/~agr/">Anthony Rowe</a> and Prof. <a href="https://swarunkumar.com/">Swarun Kumar</a>.
+      I am an assistant professor in <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a> since 2025. I am also affiliated with the <a href="https://directory.engr.wisc.edu/ece/">Department of Electrical and Computer Engineering</a>. Previously, I went to <a href="https://www.cmu.edu/">CMU</a> for my Ph.D. and worked with Prof. <a href="https://users.ece.cmu.edu/~agr/">Anthony Rowe</a> and Prof. <a href="https://swarunkumar.com/">Swarun Kumar</a>.
     </p>
     <p>
       My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials.

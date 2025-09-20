@@ -6,7 +6,7 @@ weight = 10
 
 ---
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">

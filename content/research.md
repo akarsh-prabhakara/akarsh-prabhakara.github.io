@@ -26,7 +26,7 @@ weight = 10
 
 ---
 
-<h3 id="ML">Machine Learning Driven RF Systems</h3>
+<h3 id="ML">Learning Driven RF Systems</h3>
 
 <h4 id="dart">DART</h4>
 
@@ -85,7 +85,7 @@ weight = 10
 
 ---
 
-<h3 id="comms">New paradigms for RF communication systems</h3>
+<h3 id="comms">New wireless communication paradigms</h3>
 
 <h4 id="hydra">Hydra</h4>
 

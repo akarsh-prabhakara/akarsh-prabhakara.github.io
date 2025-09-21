@@ -1,0 +1,17 @@
+body {
+    color: #000000 !important;
+    background-color: #ffffff !important;
+}
+a {
+    color: #1a0dab;  /* typical default link blue */
+}
+/* Override any dark mode rules */
+@media (prefers-color-scheme: dark) {
+    body, h1, h2, h3, h4 {
+        color: #000000 !important;
+        background-color: #ffffff !important;
+    }
+    a {
+    color: #1a0dab;  /* typical default link blue */
+}
+}

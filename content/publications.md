@@ -12,7 +12,7 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/publications/">Towards Foundational Models for Single-Chip Radar</a><br>
+    <a href="/files/grt-iccv25.pdf">Towards Foundational Models for Single-Chip Radar</a><br>
     Tianshu Huang, <ins>Akarsh Prabhakara</ins>, Chuhan Chen, Jay Karhade, Deva Ramanan, Matthew O Toole, Anthony Rowe <br>
     <em>IEEE ICCV 2025</em><br>
     <span style="color: red;"><em>ICCV Oral (64 orals / 2702 accepted papers = 2.4%)</em></span>

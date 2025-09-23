@@ -30,7 +30,7 @@ weight = 1
   <p>
     In pursuit of this vision, we have built systems along the following themes:
       <ul>
-        <li><em>Learning driven radio frequency systems</em> (<a href="/">ICCV 25</a>, <a href="/files/dart-cvpr24.pdf">CVPR 24</a>, <a href="/files/radarhd-icra23.pdf">ICRA 23</a>)</li>
+        <li><em>Learning driven radio frequency systems</em> (<a href="/files/grt-iccv25.pdf">ICCV 25</a>, <a href="/files/dart-cvpr24.pdf">CVPR 24</a>, <a href="/files/radarhd-icra23.pdf">ICRA 23</a>)</li>
         <li><em>New wireless communication paradigms</em> (<a href="/files/hydra-mobicom24.pdf">MobiCom 24</a>, <a href="/files/millimetro-mobicom21.pdf">MobiCom 21</a>, <a href="/files/quasar-mobicom21.pdf">MobiCom 21</a>)</li>
         <li><em>Wireless + Robotics</em> (<a href="/files/metamorph-icra25.pdf">ICRA 25</a>, <a href="/files/avatars-scirobotics24.pdf">Sci Ro 24</a>, <a href="/files/metamoran-iros22.pdf">IROS 22</a>)</li>
         <li><em>Embedded applications of wireless signals</em> (<a href="/files/osprey-mobisys20.pdf">MobiSys 20</a>, <a href="/files/tagfi-ubicomp21.pdf">UbiComp 21</a>, <a href="/files/platypus-ipsn23.pdf">IPSN 23</a>)</li>
@@ -46,7 +46,7 @@ weight = 1
 <!-- keep to only recent 5 news articles -->
 <p>
 <ul>
-<li><em>June 25</em>: New paper, GRT, accepted at ICCV 25 
+<li><em>June 25</em>: New paper, <a href="/research#grt">GRT</a>, accepted at ICCV 25 
 <li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
 </ul>
 </p>
@@ -56,6 +56,14 @@ weight = 1
 ### Research Highlights
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align:center;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="/research/#grt">
+      <img src="/images/grt.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
+    </a>
+    <a href="/research/#grt" style="margin-top:auto; text-align:center; ">
+      Foundational model for mmWave radar
+    </a>
+  </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="/research/#metamorph">
       <img src="/images/metamorph.png" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
@@ -69,7 +77,7 @@ weight = 1
       <img src="/images/hydra_sq.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
     </a>
     <a href="/research/#hydra" style="margin-top:auto; text-align:center; ">
-      Multi-bounce mmWave Imaging
+      Multi-bounce <br> mmWave imaging
     </a>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -85,7 +93,7 @@ weight = 1
       <img src="/images/radarhd-2.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
     </a>
     <a href="/research/#radarhd" style="margin-top:auto; text-align:center; ">
-      High resolution mmWave radar perception
+      High resolution <br> mmWave radar perception
     </a>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -93,15 +101,7 @@ weight = 1
       <img src="/images/millimetro.png" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
     </a>
     <a href="/research/#millimetro" style="margin-top:auto; text-align:center; ">
-      mmWave Backscatter
-    </a>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="/research/#osprey">
-      <img src="/images/osprey.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
-    </a>
-    <a href="/research/#osprey" style="margin-top:auto; text-align:center; ">
-      mmWave Tire Sensing
+      mmWave backscatter
     </a>
   </div>
 </div>

@@ -34,7 +34,7 @@ weight = 10
 
   <div style="flex:1; min-width:250px;">
   <p>
-      mmWave radars have great potential for robotic perception. Learning approaches (such as <a href="/research/#radarhd">RadarHD</a>) that address fundamental limits of mmWave radars have demonstrated initial hope for high fidelity perception. But, such efforts have largely been on small datasets that are task-specific and trained from scratch. This paper takes learning on radar data to new levels. We present the largest (publically available) raw radar dataset, an open-source data collection tool chain, a foundational model-esque training that scales to several perception tasks and a scaling law that answers how much more data is needed to fully exploit the power of a foundational model.
+      GPT for radars? GRT! mmWave radars have great potential for robotic perception. Learning approaches (such as <a href="/research/#radarhd">RadarHD</a>) that address fundamental limits of mmWave radars have demonstrated initial hope for high fidelity perception. But, such efforts have largely been on small datasets that are task-specific and trained from scratch. This paper takes learning on radar data to new levels. We present the largest (publically available) raw radar dataset, an open-source data collection tool chain, a foundational model-esque training that scales to several perception tasks and a scaling law that answers how much more data is needed to fully exploit the power of a foundational model.
   </p>
   </div>
   <div style="flex:0 0 30%; text-align:center;">

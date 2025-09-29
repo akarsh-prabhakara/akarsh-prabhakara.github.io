@@ -13,7 +13,7 @@ weight = 1
       I am an assistant professor in the <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a> since 2025. I am also affiliated with the <a href="https://directory.engr.wisc.edu/ece/">Department of Electrical and Computer Engineering</a>.
     </p>
     <p>
-      My research interests broadly lie in wireless systems and cyber-physical systems. I lead the <a href="https://machw-lab.github.io">MachW Lab</a> with the agenda to build wireless powered systems that perceive the world and communicate with high fidelity unlocking new application potentials. 
+      My research interests broadly lie in wireless systems and cyber-physical systems. I lead the <a href="/">MachW Lab</a> with the agenda to build wireless powered systems that perceive the world and communicate with high fidelity unlocking new application potentials. 
     </p>
     <p>
   </div>

@@ -10,10 +10,10 @@ weight = 1
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
     <p>
-      I am an assistant professor in the <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a> since 2025. I am also affiliated with the <a href="https://directory.engr.wisc.edu/ece/">Department of Electrical and Computer Engineering</a>. Previously, I went to <a href="https://www.cmu.edu/">CMU</a> for my Ph.D. and worked with Prof. <a href="https://users.ece.cmu.edu/~agr/">Anthony Rowe</a> and Prof. <a href="https://swarunkumar.com/">Swarun Kumar</a>.
+      I am an assistant professor in the <a href="https://www.cs.wisc.edu/">Department of Computer Sciences</a> at the <a href="https://www.wisc.edu/">University of Wisconsin - Madison</a> since 2025. I am also affiliated with the <a href="https://directory.engr.wisc.edu/ece/">Department of Electrical and Computer Engineering</a>.
     </p>
     <p>
-      My research interests broadly lie in wireless systems and cyber-physical systems. My goal is to build wireless systems that perceive and communicate with high fidelity unlocking new application potentials.
+      My research interests broadly lie in wireless systems and cyber-physical systems. I lead the <a href="https://machw-lab.github.io">MachW Lab</a> with the agenda to build wireless powered systems that perceive the world and communicate with high fidelity unlocking new application potentials. 
     </p>
     <p>
   </div>
@@ -30,10 +30,10 @@ weight = 1
   <p>
     In pursuit of this vision, we have built systems along the following themes:
       <ul>
-        <li><em>Learning driven radio frequency systems</em> (<a href="/files/grt-iccv25.pdf">ICCV 25</a>, <a href="/files/dart-cvpr24.pdf">CVPR 24</a>, <a href="/files/radarhd-icra23.pdf">ICRA 23</a>)</li>
-        <li><em>New wireless communication paradigms</em> (<a href="/files/hydra-mobicom24.pdf">MobiCom 24</a>, <a href="/files/millimetro-mobicom21.pdf">MobiCom 21</a>, <a href="/files/quasar-mobicom21.pdf">MobiCom 21</a>)</li>
-        <li><em>Wireless + Robotics</em> (<a href="/files/metamorph-icra25.pdf">ICRA 25</a>, <a href="/files/avatars-scirobotics24.pdf">Sci Ro 24</a>, <a href="/files/metamoran-iros22.pdf">IROS 22</a>)</li>
-        <li><em>Embedded applications of wireless signals</em> (<a href="/files/osprey-mobisys20.pdf">MobiSys 20</a>, <a href="/files/tagfi-ubicomp21.pdf">UbiComp 21</a>, <a href="/files/platypus-ipsn23.pdf">IPSN 23</a>)</li>
+        <li><em>Learning driven radio frequency systems</em> (<a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>, <a href="/files/dart-cvpr24.pdf">NeRFs for synthetic radar data</a>, <a href="/files/radarhd-icra23.pdf">upsampling architectures for low-res radars</a>)</li>
+        <li><em>New wireless communication paradigms</em> (<a href="/files/hydra-mobicom24.pdf">multi-bounce wireless imaging</a>, <a href="/files/millimetro-mobicom21.pdf">mmWave backscatter networking</a>, <a href="/files/quasar-mobicom21.pdf">cost effective LEO ground stations</a>)</li>
+        <li><em>Wireless + Robotics</em> (<a href="/files/metamorph-icra25.pdf">morphable surfaces for wireless field programming</a>, <a href="/files/avatars-scirobotics24.pdf">localization of RF tagged whales</a>, <a href="/files/metamoran-iros22.pdf">single-vantage point long range depth imaging</a>)</li>
+        <li><em>Emerging applications of wireless signals</em> (<a href="/files/osprey-mobisys20.pdf">tire wear sensing</a>, <a href="/files/tagfi-ubicomp21.pdf">low power object localization</a>, <a href="/files/platypus-ipsn23.pdf">fine structural health monitoring</a>)</li>
       </ul>
       If you are interested in graduate or undergraduate research, and these or allied topics seem interesting to you, please shoot me an email!
     </p>
@@ -43,7 +43,7 @@ weight = 1
 ---
 
 ### Recent News 
-<!-- keep to only recent 5 news articles -->
+<!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
 <ul>
 <li><em>June 25</em>: New paper, <a href="/research#grt">GRT</a>, accepted at ICCV 25 
@@ -93,7 +93,7 @@ weight = 1
       <img src="/images/radarhd-2.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
     </a>
     <a href="/research/#radarhd" style="margin-top:auto; text-align:center; ">
-      High resolution <br> mmWave radar perception
+      Upsampling architectures <br> for mmWave radars
     </a>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -109,10 +109,33 @@ weight = 1
 
 ---
 
+### Team
+<p>
+<b>Graduate Students</b>
+<ul>
+<li>Xincheng Xie
+<li>Brian Zheng
+<li>Hongyang Li
+</ul>
+</p>
+
+---
+
 ### Teaching
 <p>
 <ul>
-<li><em>Fall 25</em>: Intro to Computer Networks (640) 
-<li><em>Spring 25</em>: Big Ideas In Wireless: Perception and Communication (839)
+<li>Intro to Computer Networks (640): F25 
+<li>Big Ideas In Wireless: Perception and Communication (839): S25
 </ul>
 </p>
+
+---
+
+### Service
+<p>
+<b>Technical Program Committees</b>
+<ul>
+<li>MobiCom: 2025-26 
+<li>MobiSys: 2025
+<li>SenSys: 2025
+</ul>

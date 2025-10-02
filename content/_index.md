@@ -111,7 +111,7 @@ weight = 1
 
 ### Team
 <p>
-<b>Graduate Students</b>
+<h4>Graduate Students</h4>
 <ul>
 <li>Xincheng Xie
 <li>Brian Zheng
@@ -133,7 +133,7 @@ weight = 1
 
 ### Service
 <p>
-<b>Technical Program Committees</b>
+<h4>Technical Program Committee</h4>
 <ul>
 <li>MobiCom: 2025-26 
 <li>MobiSys: 2025

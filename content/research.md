@@ -45,7 +45,7 @@ weight = 10
   </div>
   <div style="flex:1; min-width:250px;">
   <p>
-    <a href="/files/grt-iccv25.pdf">Full Paper</a><br>
+    <a href="/files/grt-iccv25.pdf">Full Paper</a>, <a href="https://www.youtube.com/watch?v=AIWhM32jx0o">Video<br>
     <span style="color: red;"><em>ICCV Oral</em></span> <br>
   </p>
   </div>

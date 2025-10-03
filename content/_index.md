@@ -25,20 +25,41 @@ weight = 1
     Office: 7669 Morgridge Hall<br>
     <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV_Akarsh_Prabhakara.pdf">Curriculum Vitae</a>
   </div>
+</div>
 
-  <div style="flex:1; min-width:100%;">
+---
+  ### Research Overview
   <p>
     In pursuit of this vision, we have built systems along the following themes:
       <ul>
-        <li><em>Learning driven radio frequency systems</em> (<a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>, <a href="/files/dart-cvpr24.pdf">NeRFs for synthetic radar data</a>, <a href="/files/radarhd-icra23.pdf">upsampling architectures for low-res radars</a>)</li>
-        <li><em>New wireless communication paradigms</em> (<a href="/files/hydra-mobicom24.pdf">multi-bounce wireless imaging</a>, <a href="/files/millimetro-mobicom21.pdf">mmWave backscatter networking</a>, <a href="/files/quasar-mobicom21.pdf">cost effective LEO ground stations</a>)</li>
-        <li><em>Wireless + Robotics</em> (<a href="/files/metamorph-icra25.pdf">morphable surfaces for wireless field programming</a>, <a href="/files/avatars-scirobotics24.pdf">localization of RF tagged whales</a>, <a href="/files/metamoran-iros22.pdf">single-vantage point long range depth imaging</a>)</li>
-        <li><em>Emerging applications of wireless signals</em> (<a href="/files/osprey-mobisys20.pdf">tire wear sensing</a>, <a href="/files/tagfi-ubicomp21.pdf">low power object localization</a>, <a href="/files/platypus-ipsn23.pdf">fine structural health monitoring</a>)</li>
+        <li><span style="font-weight: 600; color: black;">Learning driven radio frequency systems</span> 
+        <ul>
+        <li><a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>
+        <li><a href="/files/dart-cvpr24.pdf">NeRFs for synthetic radar data</a>
+        <li><a href="/files/radarhd-icra23.pdf">upsampling architectures for low-res radars</a></li>
+        </ul>
+        <li><span style="font-weight: 600; color: black;">New wireless communication paradigms</span> 
+        <ul>
+        <li><a href="/files/hydra-mobicom24.pdf">multi-bounce wireless imaging</a> 
+        <li><a href="/files/millimetro-mobicom21.pdf">mmWave backscatter networking</a>
+        <li><a href="/files/quasar-mobicom21.pdf">cost effective LEO ground stations</a></li>
+        </ul>
+        <li><span style="font-weight: 600; color: black;">Wireless + Robotics</span> 
+        <ul>
+        <li><a href="/files/metamorph-icra25.pdf">morphable surfaces for wireless field programming</a>
+        <li><a href="/files/avatars-scirobotics24.pdf">localization of RF tagged whales</a>
+        <li><a href="/files/metamoran-iros22.pdf">single-vantage point long range depth imaging</a></li>
+        </ul>
+        <li><span style="font-weight: 600; color: black;">Emerging applications of wireless signals</span>
+        <ul>
+        <li><a href="/files/osprey-mobisys20.pdf">tire wear sensing</a>
+        <li><a href="/files/tagfi-ubicomp21.pdf">low power object localization</a>
+        <li><a href="/files/platypus-ipsn23.pdf">fine structural health monitoring</a></li>
+        </ul>
       </ul>
       If you are interested in graduate or undergraduate research, and these or allied topics seem interesting to you, please shoot me an email!
     </p>
-    </div>
-</div>
+
 
 ---
 

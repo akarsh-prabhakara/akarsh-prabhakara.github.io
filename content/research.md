@@ -13,7 +13,7 @@ weight = 10
     <p>
     My research builds fundamental principles and practical systems that define the next generation wireless perception and communication landscape. My research takes a full-stack approach building novel embedded hardware, machine learning and signal processing techniques, compute accelerators, and architecting end-end systems that manage constraints on communication, real-time latency and reliability. I am interested in pushing the limits with wireless to uncover new capabilities in robotics, automotive, and health. For critical use-cases, I employ cyber-physical systems principles to create stable interaction loops of wireless-powered machines with the world.
     </p>
-    <p> This page describes the research themes and projects that we are pursuing at the <a href="/">MachW Lab</a>.
+    <p> This page describes the research projects that we are pursuing at the <a href="/">MachW Lab</a>.
     </p>
   </div>
   <!-- Image column -->

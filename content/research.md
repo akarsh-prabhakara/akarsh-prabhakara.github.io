@@ -13,8 +13,6 @@ weight = 10
     <p>
     My research builds fundamental principles and practical systems that define the next generation wireless perception and communication landscape. My research takes a full-stack approach building novel embedded hardware, machine learning and signal processing techniques, compute accelerators, and architecting end-end systems that manage constraints on communication, real-time latency and reliability. I am interested in pushing the limits with wireless to uncover new capabilities in robotics, automotive, and health. For critical use-cases, I employ cyber-physical systems principles to create stable interaction loops of wireless-powered machines with the world.
     </p>
-    <p> This page describes the research projects that we are pursuing at the <a href="/">MachW Lab</a>.
-    </p>
   </div>
   <!-- Image column -->
   <div style="flex:0 0 30%; text-align:center;">
@@ -27,7 +25,7 @@ weight = 10
 
 ---
 
-<h3 id="ML">Learning Driven RF Systems</h3>
+<h3 id="ML">Learning driven RF perception</h3>
 
 <h4 id="grt">GRT</h4>
 
@@ -104,6 +102,81 @@ weight = 10
     <a href="https://drive.google.com/file/d/1z9V4iFjsPxpxJtv44QEKEYUcshxA5qDV/view?usp=sharing">Poster</a>,
     <a href="https://github.com/akarsh-prabhakara/RadarHD">Code and Dataset</a><br>
     <span style="color: red;"><em>Top-5 Demos (MobiCom 2023)</em></span> <br>
+  </p>
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+
+<h4 id="metamoran">Metamoran</h4> 
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  How can we enable single vantage point depth imaging at long ranges to build simple-to-deploy but high quality survelliance systems? Metamoran proposes a monocular camera-radar fusion solution that leverages the pros of each sensor to combat the cons and provides an accurate depth image of various objects even at long ranges.
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+  <br>
+  <br>
+    <img src="/images/metamoran.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+  <div style="flex:1; min-width:250px;">
+  <p>
+  <a href="/files/metamoran-iros22.pdf">Full Paper</a>,
+  <a href="https://docs.google.com/presentation/d/1-sennGYCLc8R9F7-4osnNiQKeEnRyXY0/edit?usp=sharing&ouid=111709944551033943094&rtpof=true&sd=true">Slides</a>,
+  <a href="https://drive.google.com/file/d/1-2UJ0AMo6xg-Fy3Djt43waVCD1JnJpyy/view?usp=sharing">Talk</a><br>
+  </p>
+  </div>
+</div>
+
+--- 
+
+<h3 id="robotics">Wireless + robotics</h3>
+
+<h4 id="metamorph">Metamorph</h4>
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  Can inflatable robots enhance wireless communication? We show that by placing an array of shape-morphing inflatable robots near an antenna we can boost the signal quality received at the antenna. Our methodology is best suited for base stations that need to adapt to slow moving changes --- such as seasonal effects. For a Low-Power Wide Area Network link, we show that deploying this at the gateway can have significant improvements to signal quality and yields huge battery savings.
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+  <br>
+  <br>
+    <img src="/images/metamorph.png" alt="Metamorph"  style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+  <div style="flex:1; min-width:250px;">
+  <p>
+  <a href="/files/metamorph-icra25.pdf">Full Paper</a>,
+  <a href="https://github.com/yawenliu-ece/MetaMorph">Code</a><br>
+  </p>
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+
+<h4 id="avatars">Avatars</h4> 
+
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  How can we maximize rendezvous opportunities for autonomous robots with sperm whales? We propose an autonomy and sensing module to this end. The sensing module on a drone performs a VHF synthetic aperture radar based whale positioning when the whale surfaces and uses acoustic sensors to track whales under water. Using the sensing module's data, we build a reinforcement learning algorithm that plans where autonomous robots should be dispatched to maximize chances of whale rendezvous.  
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+  <br>
+  <br>
+    <img src="/images/avatars.jpg" alt="Avatars" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+  <div style="flex:1; min-width:250px;">
+  <p>
+  <a href="/files/avatars-scirobotics24.pdf">Full Paper</a><br>
   </p>
   </div>
 </div>
@@ -186,84 +259,9 @@ weight = 10
   </div>
 </div>
 
---- 
-
-<h3 id="robotics">Wireless + Robotics</h3>
-
-<h4 id="metamorph">Metamorph</h4>
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-  Can inflatable robots enhance wireless communication? We show that by placing an array of shape-morphing inflatable robots near an antenna we can boost the signal quality received at the antenna. Our methodology is best suited for base stations that need to adapt to slow moving changes --- such as seasonal effects. For a Low-Power Wide Area Network link, we show that deploying this at the gateway can have significant improvements to signal quality and yields huge battery savings.
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-  <br>
-  <br>
-    <img src="/images/metamorph.png" alt="Metamorph"  style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-  <div style="flex:1; min-width:250px;">
-  <p>
-  <a href="/files/metamorph-icra25.pdf">Full Paper</a>,
-  <a href="https://github.com/yawenliu-ece/MetaMorph">Code</a><br>
-  </p>
-  </div>
-</div>
-
-<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
-
-<h4 id="avatars">Avatars</h4> 
-
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-  How can we maximize rendezvous opportunities for autonomous robots with sperm whales? We propose an autonomy and sensing module to this end. The sensing module on a drone performs a VHF synthetic aperture radar based whale positioning when the whale surfaces and uses underwater acoustic sensors to track whales under water. Using the sensing module's data, we build a reinforcement learning algorithm that plans where autonomous robots should be dispatched to maximize chances of whale rendezvous.  
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-  <br>
-  <br>
-    <img src="/images/avatars.jpg" alt="Avatars" style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-  <div style="flex:1; min-width:250px;">
-  <p>
-  <a href="/files/avatars-scirobotics24.pdf">Full Paper</a><br>
-  </p>
-  </div>
-</div>
-
-<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
-
-<h4 id="metamoran">Metamoran</h4> 
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:10px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-  How can we enable single vantage point depth imaging at long ranges to build simple-to-deploy but high quality survelliance systems? Metamoran proposes a monocular camera-radar fusion solution that leverages the pros of each sensor to combat the cons and provides an accurate depth image of various objects even at long ranges.
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-  <br>
-  <br>
-    <img src="/images/metamoran.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-  <div style="flex:1; min-width:250px;">
-  <p>
-  <a href="/files/metamoran-iros22.pdf">Full Paper</a>,
-  <a href="https://docs.google.com/presentation/d/1-sennGYCLc8R9F7-4osnNiQKeEnRyXY0/edit?usp=sharing&ouid=111709944551033943094&rtpof=true&sd=true">Slides</a>,
-  <a href="https://drive.google.com/file/d/1-2UJ0AMo6xg-Fy3Djt43waVCD1JnJpyy/view?usp=sharing">Talk</a><br>
-  </p>
-  </div>
-</div>
-
 ---
 
-<h3 id="embedded">Embedded applications of wireless signals</h3>
+<h3 id="ubi">Ubiquitous wireless sensing </h3>
 
 <h4 id="osprey">Osprey</h4>
 

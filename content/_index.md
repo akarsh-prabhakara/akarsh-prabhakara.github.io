@@ -30,13 +30,54 @@ weight = 1
 ---
   ### Research Overview
   <p>
-    In pursuit of this vision, we have built systems along the following themes:
+    We are building systems along the following themes:
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align:center;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="/research/#ML">
+          <img src="/images/grt.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
+        </a>
+        <a href="/research/#ML" style="margin-top:auto; text-align:center; ">
+          Learning driven RF perception
+        </a>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="/research/#robotics">
+          <img src="/images/metamorph.png" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
+        </a>
+        <a href="/research/#robotics" style="margin-top:auto; text-align:center; ">
+          Wireless + robotics
+        </a>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="/research/#comms">
+          <img src="/images/hydra_sq.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
+        </a>
+        <a href="/research/#comms" style="margin-top:auto; text-align:center; ">
+          New wireless communication paradigms
+        </a>
+      </div>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="/research/#ubi">
+          <img src="/images/osprey_sq.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
+        </a>
+        <a href="/research/#ubi" style="margin-top:auto; text-align:center; ">
+          Ubiquitous wireless sensing
+        </a>
+      </div>
+      </div>
+      <br>
       <ul>
-        <li><span style="font-weight: 600; color: black;">Learning driven radio frequency systems</span> 
+        <li><span style="font-weight: 600; color: black;">Learning driven radio frequency perception</span> 
         <ul>
         <li><a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>
         <li><a href="/files/dart-cvpr24.pdf">NeRFs for synthetic radar data</a>
         <li><a href="/files/radarhd-icra23.pdf">upsampling architectures for low-res radars</a></li>
+        <li><a href="/files/metamoran-iros22.pdf">single-vantage point long range depth imaging</a></li>
+        </ul>
+        <li><span style="font-weight: 600; color: black;">Wireless + robotics</span> 
+        <ul>
+        <li><a href="/files/metamorph-icra25.pdf">soft robotics for wireless field programming</a>
+        <li><a href="/files/avatars-scirobotics24.pdf">localization of RF tagged whales</a>
         </ul>
         <li><span style="font-weight: 600; color: black;">New wireless communication paradigms</span> 
         <ul>
@@ -44,37 +85,19 @@ weight = 1
         <li><a href="/files/millimetro-mobicom21.pdf">mmWave backscatter networking</a>
         <li><a href="/files/quasar-mobicom21.pdf">cost effective LEO ground stations</a></li>
         </ul>
-        <li><span style="font-weight: 600; color: black;">Wireless + Robotics</span> 
-        <ul>
-        <li><a href="/files/metamorph-icra25.pdf">morphable surfaces for wireless field programming</a>
-        <li><a href="/files/avatars-scirobotics24.pdf">localization of RF tagged whales</a>
-        <li><a href="/files/metamoran-iros22.pdf">single-vantage point long range depth imaging</a></li>
-        </ul>
-        <li><span style="font-weight: 600; color: black;">Emerging applications of wireless signals</span>
+        <li><span style="font-weight: 600; color: black;">Ubiquitous wireless sensing</span>
         <ul>
         <li><a href="/files/osprey-mobisys20.pdf">tire wear sensing</a>
         <li><a href="/files/tagfi-ubicomp21.pdf">low power object localization</a>
         <li><a href="/files/platypus-ipsn23.pdf">fine structural health monitoring</a></li>
         </ul>
       </ul>
-      If you are interested in graduate or undergraduate research, and these or allied topics seem interesting to you, please shoot me an email!
     </p>
 
 
 ---
 
-### Recent News 
-<!-- keep to only recent 5 news articles, implement a past news link -->
-<p>
-<ul>
-<li><em>June 25</em>: New paper, <a href="/research#grt">GRT</a>, accepted at ICCV 25 
-<li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
-</ul>
-</p>
-
----
-
-### Research Highlights
+<!-- ### Highlighted Research
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; text-align:center;">
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -127,6 +150,18 @@ weight = 1
   </div>
 </div>
 <br>
+
+---  -->
+
+### Recent News 
+<!-- keep to only recent 5 news articles, implement a past news link -->
+<p>
+<ul>
+<li><em>June 25</em>: New paper, <a href="/research#grt">GRT</a>, accepted at ICCV 25 
+<li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
+</ul>
+</p>
+
 
 ---
 

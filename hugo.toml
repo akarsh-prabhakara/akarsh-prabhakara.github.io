@@ -24,7 +24,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   publications = "/publications/"
 
 [params]
-  googleAnalytics = "G-HJ4MCXNFYW"
+  # googleAnalytics = "G-HJ4MCXNFYW"
   
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Akarsh Prabhakara Personal Website"

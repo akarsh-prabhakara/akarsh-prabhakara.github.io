@@ -193,5 +193,5 @@ weight = 1
 <ul>
 <li>MobiCom: 2025-26 
 <li>MobiSys: 2025
-<li>SenSys: 2025
+<li>SenSys: 2026
 </ul>

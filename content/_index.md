@@ -157,6 +157,7 @@ weight = 1
 <!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
 <ul>
+<li><em>Nov 25</em>: New paper, RadarSim, accepted at 3DV 26 
 <li><em>June 25</em>: New paper, <a href="/research#grt">GRT</a>, accepted at ICCV 25 
 <li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
 </ul>

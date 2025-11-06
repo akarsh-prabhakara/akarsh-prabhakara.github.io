@@ -158,7 +158,7 @@ weight = 1
 <p>
 <ul>
 <li><em>Nov 25</em>: RadarSim accepted at 3DV 26 
-<li><em>June 25</em>: <a href="/research#grt">GRT</a>, accepted at ICCV 25 
+<li><em>June 25</em>: <a href="/research#grt">GRT</a> accepted at ICCV 25 
 <li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
 </ul>
 </p>

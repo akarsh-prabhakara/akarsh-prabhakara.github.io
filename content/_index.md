@@ -19,8 +19,8 @@ weight = 1
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 300px; text-align:center;">
-    <img src="/images/dp_square_1.jpg" alt="Description" style="width:80%; max-width:300px; border-radius:8px;"><br>
+  <div class="one" style="flex:0 0 250px; text-align:center;">
+    <img src="/images/dp_square_1.jpg" alt="Description" class="one"  style="width:80%; max-width:300px; border-radius:8px;"><br>
     Email: akarsh@cs.wisc.edu<br>
     Office: 7669 Morgridge Hall<br>
     <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV_Akarsh_Prabhakara.pdf">Curriculum Vitae</a>
@@ -28,11 +28,11 @@ weight = 1
 </div>
 
 ---
-  ### Research Overview
+<h3>Research Overview</h3>
   <p>
     We are building systems along the following themes:
-      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align:center;">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div class="two" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; text-align:center;">
+      <div class="two" style="display: flex; flex-direction: column; align-items: center;">
         <a href="/research/#ML">
           <img src="/images/grt.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
         </a>
@@ -40,7 +40,7 @@ weight = 1
           Learning driven RF perception
         </a>
       </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div class="two" style="display: flex; flex-direction: column; align-items: center;">
         <a href="/research/#robotics">
           <img src="/images/metamorph.png" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
         </a>
@@ -48,7 +48,7 @@ weight = 1
           Wireless + robotics
         </a>
       </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div class="two" style="display: flex; flex-direction: column; align-items: center;">
         <a href="/research/#comms">
           <img src="/images/hydra_sq.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
         </a>
@@ -56,7 +56,7 @@ weight = 1
           New wireless communication paradigms
         </a>
       </div>
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div class="two" style="display: flex; flex-direction: column; align-items: center;">
         <a href="/research/#ubi">
           <img src="/images/osprey_sq.jpg" alt="Image 1" style="width:100%; border-radius:5px; display:block;">
         </a>
@@ -66,7 +66,7 @@ weight = 1
       </div>
       </div>
       <br>
-      <ul>
+      <ul class="one" >
         <li><span style="font-weight: 600; color: black;">Learning driven radio frequency perception</span> 
         <ul>
         <li><a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>
@@ -153,10 +153,10 @@ weight = 1
 
 ---  -->
 
-### Recent News 
+<h3>Recent News</h3>
 <!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
-<ul>
+<ul class="one">
 <li><em>Nov 25</em>: RadarSim accepted at 3DV 26 
 <li><em>June 25</em>: <a href="/research#grt">GRT</a> accepted at ICCV 25 
 <li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
@@ -166,10 +166,10 @@ weight = 1
 
 ---
 
-### Team
+<h3>Team</h3>
 <p>
 <h4>Graduate Students</h4>
-<ul>
+<ul class="one">
 <li>Xincheng Xie
 <li>Brian Zheng
 <li>Hongyang Li
@@ -178,20 +178,20 @@ weight = 1
 
 ---
 
-### Teaching
+<h3>Teaching</h3>
 <p>
-<ul>
+<ul class="one">
 <li>Intro to Computer Networks (640): F25 
-<li>Big Ideas In Wireless: Perception and Communication (839): S25
+<li>Big Ideas In Wireless: Perception and Communication (839): S25, S26
 </ul>
 </p>
 
 ---
 
-### Service
+<h3>Service</h3>
 <p>
 <h4>Technical Program Committee</h4>
-<ul>
+<ul class="one">
 <li>MobiCom: 2025-26 
 <li>MobiSys: 2025
 <li>SenSys: 2026

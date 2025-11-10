@@ -8,43 +8,43 @@ weight = 20
 
 <h3>Conferences and Journal Papers</h3>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/">RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields</a><br>Chuhan Chen, Tianshu Huang, Akarsh Prabhakara, Chaithanya Kumar, Zhongxiao Cong, Anthony Rowe, Matthew O Toole, Deva Ramanan<br>
+    <a href="/">RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields</a><br>Chuhan Chen, Tianshu Huang, Akarsh Prabhakara, Chaithanya Kumar, Zhongxiao Cong, Anthony Rowe, Matthew O'Toole, Deva Ramanan<br>
     <em>3D Vision 2026</em><br>
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/radar_sim.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/radar_sim.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
     <a href="/files/grt-iccv25.pdf">Towards Foundational Models for Single-Chip Radar</a><br>
-    Tianshu Huang, Akarsh Prabhakara, Chuhan Chen, Jay Karhade, Deva Ramanan, Matthew O Toole, Anthony Rowe <br>
+    Tianshu Huang, Akarsh Prabhakara, Chuhan Chen, Jay Karhade, Deva Ramanan, Matthew O'Toole, Anthony Rowe <br>
     <em>IEEE ICCV 2025</em><br>
     <span style="color: red;"><em>ICCV Oral (64 orals / 2702 accepted papers = 2.4%)</em></span>
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/grt.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/grt.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -54,15 +54,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/metamorph.png" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/metamorph.png" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -72,15 +72,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/avatars.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/avatars.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -90,15 +90,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/hydra_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/hydra_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -109,15 +109,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/dart_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/dart_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -127,15 +127,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/radarhd_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/radarhd_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -145,15 +145,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/platypus_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/platypus_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -163,14 +163,14 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/metamoran_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/metamoran_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -181,15 +181,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/millimetro_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/millimetro_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -200,15 +200,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/quasar_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/quasar_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -218,15 +218,15 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/tagfi_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/tagfi_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -238,8 +238,8 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
-    <img src="/images/osprey_sq.jpg" alt="Description" style="width:100%; max-width:150px; border-radius:8px;">
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/osprey_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
   </div>
 
 </div>
@@ -247,7 +247,7 @@ weight = 20
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -257,7 +257,7 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
 
   </div>
 
@@ -270,7 +270,7 @@ weight = 20
 <h3>Posters, Demos, Magazines</h3>
 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -281,7 +281,7 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>
@@ -289,7 +289,7 @@ weight = 20
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -300,7 +300,7 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>
@@ -308,7 +308,7 @@ weight = 20
 <br>
 
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -319,14 +319,14 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -336,14 +336,14 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -353,14 +353,14 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -370,14 +370,14 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>
 
 <br>
 
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
@@ -388,7 +388,7 @@ weight = 20
   </div>
 
   <!-- Image column -->
-  <div style="flex:0 0 150px; text-align:center;">
+  <div style="flex:0 0 120px; text-align:center;">
   </div>
 
 </div>

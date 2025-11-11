@@ -15,7 +15,7 @@ weight = 10
     </p>
   </div>
   <!-- Image column -->
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/research_themes.jpg" alt="Description" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 
@@ -36,7 +36,7 @@ weight = 10
       <span style="color: red;"><em>ICCV Oral</em></span> <br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/grt.jpg" alt="GRT" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -57,7 +57,7 @@ weight = 10
     <span style="color: red;"><em>CVPR Oral</em></span> <br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/dart_sq.jpg" alt="DART" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -81,7 +81,7 @@ weight = 10
     <span style="color: red;"><em>Top-5 Demos (MobiCom 2023)</em></span> <br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/radarhd-2.jpg" alt="RadarHD"  style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -100,7 +100,7 @@ weight = 10
   <a href="https://drive.google.com/file/d/1-2UJ0AMo6xg-Fy3Djt43waVCD1JnJpyy/view?usp=sharing">Talk</a><br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/metamoran.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -120,7 +120,7 @@ weight = 10
   <a href="https://github.com/yawenliu-ece/MetaMorph">Code</a><br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/metamorph.png" alt="Metamorph"  style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -138,7 +138,7 @@ weight = 10
     <a href="/files/avatars-scirobotics24.pdf">Full Paper</a><br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/avatars.jpg" alt="Avatars" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -157,7 +157,7 @@ weight = 10
   <a href="/files/hydra-mobicom24.pdf">Full Paper</a><br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/hydra_sq.jpg" alt="Hydra"  style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -179,7 +179,7 @@ weight = 10
   <span style="color: red;"> <em>Best Demo Runner Up (MobiCom 2021)</em></span> <br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/millimetro.png" alt="Millimetro"  style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -198,7 +198,7 @@ weight = 10
   <span style="color: red;"><em>ACM GetMobile Research Highlight</em></span>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/quasar_sq.jpg" alt="Quasar"  style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -234,7 +234,7 @@ weight = 10
   <span style="color: red;"> <em>ACM GetMobile Research Highlight</em></span> <br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/osprey.jpg" alt="Osprey" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -253,7 +253,7 @@ weight = 10
   <a href="https://www.youtube.com/watch?v=gnSSzYrRU6o">Demo Video</a><br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/tagfi_sq.jpg" alt="Avatars" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
@@ -273,7 +273,7 @@ weight = 10
   <span style="color: red;"><em>Best Demo Runner Up (IPSN 2023)</em></span><br>
   </p>
   </div>
-  <div style="flex:0 0 25%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/platypus_sq.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>

@@ -267,6 +267,27 @@ weight = 20
 
 ---
 
+<h3>Workshops</h3>
+
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px;">
+    <a href="/">Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception</a><br>Bangya Liu, Chengpo Yan, Chenghao Jiang, Suman Banerjee, Akarsh Prabhakara<br>
+    <em>HotMobile 2026</em><br>
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/sharp.png" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+  </div>
+
+</div>
+
+<br>
+
+---
+
 <h3>Posters, Demos, Magazines</h3>
 
 

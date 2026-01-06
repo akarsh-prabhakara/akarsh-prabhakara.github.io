@@ -6,7 +6,7 @@ weight = 20
 
 ---
 
-<h3>Conferences and Journal Papers</h3>
+<h3>Conferences and Journals</h3>
 
 <div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
 

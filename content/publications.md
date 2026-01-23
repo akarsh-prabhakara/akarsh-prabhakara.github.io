@@ -12,7 +12,7 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/">RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields</a><br>Chuhan Chen, Tianshu Huang, Akarsh Prabhakara, Chaithanya Kumar, Zhongxiao Cong, Anthony Rowe, Matthew O'Toole, Deva Ramanan<br>
+    <a href="/files/radarsim-3dv26.pdf">RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields</a><br>Chuhan Chen, Tianshu Huang, Akarsh Prabhakara, Chaithanya Kumar, Zhongxiao Cong, Anthony Rowe, Matthew O'Toole, Deva Ramanan<br>
     <em>3D Vision 2026</em><br>
   </div>
 

@@ -69,6 +69,8 @@ weight = 1
       <ul class="one" >
         <li><span style="font-weight: 600; color: black;">Learning driven radio frequency perception</span> 
         <ul>
+        <!-- <li><a href="/files/sharp-hotmobile26.pdf">privacy in cooperative perception</a> -->
+        <li><a href="/files/radarsim-3dv26.pdf">multimodal (radar+camera) NeRFs</a>
         <li><a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>
         <li><a href="/files/dart-cvpr24.pdf">NeRFs for synthetic radar data</a>
         <li><a href="/files/radarhd-icra23.pdf">upsampling architectures for low-res radars</a></li>
@@ -157,8 +159,8 @@ weight = 1
 <!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
 <ul class="one">
-<li><em>Dec 25</em>: Sharp accepted at HotMobile 26 
-<li><em>Nov 25</em>: RadarSim accepted at 3DV 26 
+<li><em>Dec 25</em>: <a href="/research#sharp">Sharp</a> accepted at HotMobile 26 
+<li><em>Nov 25</em>: <a href="/research#radarsim">RadarSim</a> accepted at 3DV 26 
 <li><em>June 25</em>: <a href="/research#grt">GRT</a> accepted at ICCV 25 
 <li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25
 </ul>

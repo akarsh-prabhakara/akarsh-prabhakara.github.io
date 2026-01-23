@@ -25,6 +25,40 @@ weight = 10
 
 <h3 id="ML">Learning driven RF perception</h3>
 
+<!-- <h4 id="sharp">Sharp</h4>
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:30px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+      GPT for radars? GRT! mmWave radars have great potential for robotic perception. Learning approaches (such as <a href="/research/#radarhd">RadarHD</a>) that address fundamental limits of mmWave radars have demonstrated initial hope for high fidelity perception. But, such efforts have largely been on small datasets that are task-specific and trained from scratch. This paper takes learning on radar data to new levels. We present the largest (publicly available) raw radar dataset, an open-source data collection tool chain, a foundational model-esque training that scales to several perception tasks and a scaling law that answers how much more data is needed to fully exploit the power of a foundational model. <br><br>
+      <a href="/files/sharp-hotmobile26.pdf">Full Paper</a> <br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/sharp.png" alt="Sharp" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;"> -->
+
+<h4 id="radarsim">RadarSim</h4>
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:30px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+      Neural radiance fields relying on just radar scans are limited by the effective spatial resolution of a radar scan. Neural radiance fields with camera scans can generate good 3D world understanding. Can we leverage cameras to perform superior radar novel view synthesis? RadarSim presents multimodal neural radiance fields with camera and radar. It achieves a superior geometry understanding, and consequently, superior radar novel view synthesis. <br><br>
+      <a href="/files/radarsim-3dv26.pdf">Full Paper</a> <br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/radar_sim.jpg" alt="Radar Sim" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+
 <h4 id="grt">GRT</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:30px;">
@@ -32,7 +66,7 @@ weight = 10
   <div style="flex:1; min-width:250px;">
   <p>
       GPT for radars? GRT! mmWave radars have great potential for robotic perception. Learning approaches (such as <a href="/research/#radarhd">RadarHD</a>) that address fundamental limits of mmWave radars have demonstrated initial hope for high fidelity perception. But, such efforts have largely been on small datasets that are task-specific and trained from scratch. This paper takes learning on radar data to new levels. We present the largest (publicly available) raw radar dataset, an open-source data collection tool chain, a foundational model-esque training that scales to several perception tasks and a scaling law that answers how much more data is needed to fully exploit the power of a foundational model. <br><br>
-      <a href="/files/grt-iccv25.pdf">Full Paper</a>, <a href="https://www.youtube.com/watch?v=AIWhM32jx0o">Video</a><br>
+      <a href="/files/grt-iccv25.pdf">Full Paper</a>, <a href="https://wiselabcmu.github.io/grt/">Website</a>, <a href="https://www.youtube.com/watch?v=AIWhM32jx0o">Video</a><br>
       <span style="color: red;"><em>ICCV Oral</em></span> <br>
   </p>
   </div>

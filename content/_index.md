@@ -23,7 +23,7 @@ weight = 1
     <img src="/images/dp_square_1.jpg" alt="Description" class="one"  style="width:80%; max-width:300px; border-radius:8px;"><br>
     Email: akarsh@cs.wisc.edu<br>
     Office: 7669 Morgridge Hall<br>
-    <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV_Akarsh_Prabhakara.pdf">Curriculum Vitae</apublic/images/dp_square_1.jpg>
+    <a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ&hl=en">Google Scholar</a> | <a href="/files/CV_Akarsh_Prabhakara.pdf">Curriculum Vitae</apublic/images/dp_square_1.jpg></a>
   </div>
 </div>
 

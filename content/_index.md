@@ -69,7 +69,7 @@ weight = 1
       <ul class="one" >
         <li><span style="font-weight: 600; color: black;">Learning driven radio frequency perception</span> 
         <ul>
-        <!-- <li><a href="/files/sharp-hotmobile26.pdf">privacy in cooperative perception</a> -->
+        <li><a href="/files/sharp-hotmobile26.pdf">privacy in cooperative perception</a>
         <li><a href="/files/radarsim-3dv26.pdf">multimodal (radar+camera) NeRFs</a>
         <li><a href="/files/grt-iccv25.pdf">foundational models for mmWave radars</a>
         <li><a href="/files/dart-cvpr24.pdf">NeRFs for synthetic radar data</a>

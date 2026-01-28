@@ -25,13 +25,13 @@ weight = 10
 
 <h3 id="ML">Learning driven RF perception</h3>
 
-<!-- <h4 id="sharp">Sharp</h4>
+<h4 id="sharp">Sharp</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:30px;">
 
   <div style="flex:1; min-width:250px;">
   <p>
-      GPT for radars? GRT! mmWave radars have great potential for robotic perception. Learning approaches (such as <a href="/research/#radarhd">RadarHD</a>) that address fundamental limits of mmWave radars have demonstrated initial hope for high fidelity perception. But, such efforts have largely been on small datasets that are task-specific and trained from scratch. This paper takes learning on radar data to new levels. We present the largest (publicly available) raw radar dataset, an open-source data collection tool chain, a foundational model-esque training that scales to several perception tasks and a scaling law that answers how much more data is needed to fully exploit the power of a foundational model. <br><br>
+      Recently, we are witnessing systems research building testbeds that share raw spatial sensor data for cooperative perception. While raw data improves accuracies, new forms of privacy concerns arise and discourage stakeholders to share raw sensor data. We alleviate these concerns by proposing methods to address privacy leakages pertaining to ego-location and sensor intellectual property. <br><br>
       <a href="/files/sharp-hotmobile26.pdf">Full Paper</a> <br>
   </p>
   </div>
@@ -40,7 +40,7 @@ weight = 10
   </div>
 </div>
 
-<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;"> -->
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
 <h4 id="radarsim">RadarSim</h4>
 

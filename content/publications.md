@@ -273,7 +273,7 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/">Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception</a><br>Bangya Liu, Chengpo Yan, Chenghao Jiang, Suman Banerjee, Akarsh Prabhakara<br>
+    <a href="/files/sharp-hotmobile26.pdf">Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception</a><br>Bangya Liu, Chengpo Yan, Chenghao Jiang, Suman Banerjee, Akarsh Prabhakara<br>
     <em>HotMobile 2026</em><br>
   </div>
 

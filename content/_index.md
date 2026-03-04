@@ -159,6 +159,7 @@ weight = 1
 <!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
 <ul class="one">
+<li><em>Feb 26</em>: Paper on handling glare in solid-state lidars at CVPR 26 
 <li><em>Dec 25</em>: <a href="/research#sharp">Sharp</a> accepted at HotMobile 26 
 <li><em>Nov 25</em>: <a href="/research#radarsim">RadarSim</a> accepted at 3DV 26 
 <li><em>June 25</em>: <a href="/research#grt">GRT</a> accepted at ICCV 25 

@@ -29,6 +29,23 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
+    <a href="/">Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain</a><br>Avery Gump*, Connor Henley*, Sungjin Cheong, Akarsh Prabhakara, Mohit Gupta<br>
+    <em>CVPR 2026</em><br>
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/deglare.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+  </div>
+
+</div>
+
+<br>
+
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px;">
     <a href="/files/radarsim-3dv26.pdf">RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields</a><br>Chuhan Chen, Tianshu Huang, Akarsh Prabhakara, Chaithanya Kumar, Zhongxiao Cong, Anthony Rowe, Matthew O'Toole, Deva Ramanan<br>
     <em>3D Vision 2026</em><br>
   </div>

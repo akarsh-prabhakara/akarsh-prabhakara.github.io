@@ -12,13 +12,13 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/files/sharp-hotmobile26.pdf">Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception</a><br>Bangya Liu, Chengpo Yan, Chenghao Jiang, Suman Banerjee, Akarsh Prabhakara<br>
-    <em>HotMobile 2026</em><br>
+    <a href="/">Millimeter Wave Inverse Pinhole Imaging</a><br>Akarsh Prabhakara, Yawen Liu, Aswin Sankaranarayanan, Anthony Rowe, Swarun Kumar<br>
+    <em>IEEE Sensors Journal 2026</em><br>
   </div>
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/sharp.png" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/umbra.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -29,13 +29,49 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/">Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain</a><br>Avery Gump*, Connor Henley*, Sungjin Cheong, Akarsh Prabhakara, Mohit Gupta<br>
+    <a href="/">Measuring multi-site pulse transit time with an AI-enabled mmWave radar</a><br>Jiangyifei Zhu*, Kuang Yuan*, Akarsh Prabhakara, Yunzhi Li, Gongwei Wang, Kelly Michaelsen, Justin Chan, Swarun Kumar<br>
+    <em>Nature Communications 2026</em><br>
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/polypulse.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
+  </div>
+
+</div>
+
+<br>
+
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px;">
+    <a href="/files/deglare-cvpr26.pdf">Ghosts in the Point Clouds: De-glaring LiDAR in the Transient Domain</a><br>Avery Gump*, Connor Henley*, Sungjin Cheong, Akarsh Prabhakara, Mohit Gupta<br>
     <em>CVPR 2026</em><br>
   </div>
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/deglare.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <div style="width:120px; height:120px; overflow:hidden; background:white; border-radius:8px; display:flex; align-items:center; justify-content:center;">
+      <img src="/images/deglare.jpg" alt="Description" style="width:100%; height:100%; object-fit:contain; transform:scale(1.5);">
+    </div>
+  </div>
+
+</div>
+
+<br>
+
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px;">
+    <a href="/files/sharp-hotmobile26.pdf">Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception</a><br>Bangya Liu, Chengpo Yan, Chenghao Jiang, Suman Banerjee, Akarsh Prabhakara<br>
+    <em>HotMobile 2026</em><br>
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:0 0 120px; text-align:center;">
+    <img src="/images/sharp.png" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -52,7 +88,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/radar_sim.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/radar_sim.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -71,7 +107,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/grt.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/grt.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -89,7 +125,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/metamorph.png" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/metamorph.png" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -107,7 +143,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/avatars.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/avatars.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -125,7 +161,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/hydra_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/hydra_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -144,7 +180,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/dart_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/dart_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -162,7 +198,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/radarhd_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/radarhd_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -180,7 +216,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/platypus_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/platypus_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -198,7 +234,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/metamoran_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/metamoran_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -216,7 +252,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/millimetro_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/millimetro_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -235,7 +271,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/quasar_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/quasar_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -253,7 +289,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/tagfi_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/tagfi_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>
@@ -273,7 +309,7 @@ weight = 20
 
   <!-- Image column -->
   <div style="flex:0 0 120px; text-align:center;">
-    <img src="/images/osprey_sq.jpg" alt="Description" style="width:100%; max-width:120px; border-radius:8px;">
+    <img src="/images/osprey_sq.jpg" alt="Description" style="width:100%; max-width:120px; aspect-ratio:1/1; object-fit:cover; border-radius:8px;">
   </div>
 
 </div>

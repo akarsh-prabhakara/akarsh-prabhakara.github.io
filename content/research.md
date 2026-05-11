@@ -23,24 +23,7 @@ weight = 10
 
 ---
 
-<h3 id="ML">Learning driven RF perception</h3>
-
-<h4 id="sharp">Sharp</h4>
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:30px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-      Recently, we are witnessing systems research building testbeds that share raw spatial sensor data for cooperative perception. While raw data improves accuracies, new forms of privacy concerns arise and discourage stakeholders to share raw sensor data. We alleviate these concerns by proposing methods to address privacy leakages pertaining to ego-location and sensor intellectual property. <br><br>
-      <a href="/files/sharp-hotmobile26.pdf">Full Paper</a> <br>
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-    <img src="/images/sharp.png" alt="Sharp" style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-</div>
-
-<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+<h3 id="learning-based">Learning based RF perception</h3>
 
 <h4 id="radarsim">RadarSim</h4>
 
@@ -120,6 +103,44 @@ weight = 10
   </div>
 </div>
 
+--- 
+
+<h3 id="phy-based">Physics based RF imaging</h3>
+
+<h4 id="umbra">Umbra</h4> 
+
+<div style="display:flex; flex-wrap:wrap; align-items:center; gap:40px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  How can we enable high resolution imaging at RF without large arrays or antenna motion via Synthetic Aperture Radar (SAR)? Umbra builds inverse pinhole imaging that enables a static single antenna to achieve high resolution, high update rate imaging. All we need to add to a single antenna setup is a lightweight strip that is spun by a low cost DC motor. We show that this emulates an "inverse pinhole" and offers extra information that can boost resolution. Static mount applications like pole/wall mount radars and in-place hovering drones can directly benefit from this approach. <br> <br>
+  <!-- <a href="/files/metamoran-iros22.pdf">Full Paper</a>, -->
+  <!-- <a href="https://docs.google.com/presentation/d/1-sennGYCLc8R9F7-4osnNiQKeEnRyXY0/edit?usp=sharing&ouid=111709944551033943094&rtpof=true&sd=true">Slides</a>, -->
+  <!-- <a href="https://drive.google.com/file/d/1-2UJ0AMo6xg-Fy3Djt43waVCD1JnJpyy/view?usp=sharing">Talk</a><br> -->
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/umbra.jpg" alt="Umbra" style="max-width:100%; max-height:220px; width:auto; height:auto; border-radius:8px;">
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+
+<h4 id="hydra">Hydra</h4>
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  Conventional radar processing only allows estimating the spatial locations of objects in the incident field of view. But, in practice, the radio waves bounce off objects in the field of view and illuminate hidden objects. Can we leverage this multi-bouce effect and image scenes beyond the field of view of a typical mmWave radar? We propose algorithms that can tackle double and triple bounces to expand the field of view to even diametrically opposite to the incident beam! <br><br>
+  <a href="/files/hydra-mobicom24.pdf">Full Paper</a><br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/hydra_sq.jpg" alt="Hydra"  style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
 <h4 id="metamoran">Metamoran</h4> 
@@ -136,6 +157,40 @@ weight = 10
   </div>
   <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/metamoran.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+
+<h4 id="osprey">Osprey</h4>
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, require sensors embedded in tires or are prone to road debris. Osprey proposes a radio frequency tire wear sensing system design, based on automotive millimeter wave radars, to overcome challenges related to road debris. We design super resolution algorithms to measure millimeter-level changes due to wear and tear. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  <br><br>
+  <a href="/files/osprey-mobisys20.pdf">Full Paper</a>,
+  <a href="/files/osprey-demo-mobisys20.pdf">Demo Paper</a>,
+  <a href="/files/osprey-getmobile21.pdf">Magazine</a>,
+  <a href="https://www.youtube.com/watch?v=y-haR7Vc01o">Talk</a>,
+  <a href="https://drive.google.com/file/d/1IhwnS1KSGDmiKOGz1JiVGAjnr-BQlAB6/view?usp=sharing">Slides</a>,
+  <a href="https://www.youtube.com/embed/tGFg0Vhi2uY?start=66&end=127">Video-1min</a>,
+  <a href="https://www.youtube.com/watch?v=jhasOfGaS5w">Video-3min</a><br>
+  <em>Press</em>: <a href="https://www.ece.cmu.edu/news-and-events/story/2020/07/sensing-tire-wear.html">CMU</a>,
+    <a href="https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816">Gizmodo</a>,
+    <a href="https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3">Hackster.io</a>,
+    <a href="https://thatscoolnews.com/episode/21-osprey-mmwaves-sense-tire-wear-akarsh/">That's Cool News Podcast</a>,
+    <a href="https://weibold.com/radar-to-monitor-tire-wear-developed-by-american-engineers">Weibold</a>,
+    <a href="https://interestingengineering.com/innovation/radar-can-be-used-to-detect-tire-wear-and-tear-nail-punctures">Interesting Engineering</a>,
+    <a href="https://wonderfulengineering.com/this-radar-based-device-can-detect-tire-punctures-along-with-wear-and-tear/">Wonderful Engineering</a>,
+    <a href="https://www.tyrepress.com/2020/08/measuring-tyre-wear-with-on-car-radar/">Tyrepress.com</a><br>
+  <span style="color: red;"> <em>Best Paper Honorable Mention (MobiSys 2020)</em></span> <br>
+  <span style="color: red;"> <em>Best Demo (MobiSys 2020)</em></span> <br>
+  <span style="color: red;"> <em>ACM GetMobile Research Highlight</em></span> <br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/osprey.jpg" alt="Osprey" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
 
@@ -177,22 +232,45 @@ weight = 10
   </div>
 </div>
 
----
+--- 
 
-<h3 id="comms">New wireless communication paradigms</h3>
+<h3 id="health">Wireless + health</h3>
 
-<h4 id="hydra">Hydra</h4>
+<h4 id="polypulse">PolyPulse</h4>
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
 
   <div style="flex:1; min-width:250px;">
   <p>
-  Conventional radar processing only allows estimating the spatial locations of objects in the incident field of view. But, in practice, the radio waves bounce off objects in the field of view and illuminate hidden objects. Can we leverage this multi-bouce effect and image scenes beyond the field of view of a typical mmWave radar? We propose algorithms that can tackle double and triple bounces to expand the field of view to even diametrically opposite to the incident beam! <br><br>
-  <a href="/files/hydra-mobicom24.pdf">Full Paper</a><br>
+  Radars have been used for non-contact heart rate monitoring. Can we push the boundaries by measuring heart-induced signals at multiple sites on the body? This would address physiological monitoring needs such as pulse transit time measurement and blood pressure monitoring - both of which needs contact probes today. PolyPulse builds fine-grained beamforming to focus on multiple sites and a deep learning pipeline to convert radar reflections into heart-induced signals at respective sites. We observe strong correlation with contact based pulse transit time and diastolic blood pressure.<br><br>
+  <!-- <a href="/files/metamorph-icra25.pdf">Full Paper</a>, -->
+  <!-- <a href="https://github.com/yawenliu-ece/MetaMorph">Code</a><br> -->
   </p>
   </div>
   <div style="flex:0 0 30%; text-align:center;">
-    <img src="/images/hydra_sq.jpg" alt="Hydra"  style="width:100%; max-width:300px; border-radius:8px;">
+    <img src="/images/polypulse.jpg" alt="PolyPulse"  style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
+---
+
+<h3 id="backscatter">Backscatter </h3>
+
+<h4 id="platypus">Platypus</h4> 
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  How can we continuously monitor the development of miniature cracks in today's aging public infrastructure like bridges? This would inform decisions on safety and maintenance of these critical structures well in advance. Past work has looked at coarse grained structure health monitoring. Platypus builds novel signal processing and low power hardware tags to mount on bridges. We enable a new operating point that can measure micro-displacements of structures over years and in extreme weather conditions. <br><br>
+  <a href="/files/platypus-ipsn23.pdf">Full Paper</a>,
+  <a href="/files/platypus-demo-ipsn23.pdf">Demo Paper</a>,
+  <a href="https://www.youtube.com/watch?v=M8HkvFgZx9I">Video</a><br>
+  <span style="color: red;"><em>Best Demo Runner Up (IPSN 2023)</em></span><br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/platypus_sq.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
   </div>
 </div>
 
@@ -220,6 +298,44 @@ weight = 10
 
 <hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
 
+<h4 id="tagfi">TagFi</h4> 
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+  How can we locate important and often misplaced objects-of-interest like keys, wallets, tools? Prior works either need power hungry tags attached to these objects or custom supporting infrastructure to manage tags. We turn to already existing and widely deployed WiFi networks for infrastructure support and build custom extremely low power tags. The user can simply forget about the tag for years. Our algorithms can locate objects with fine-grained accuracy and provide seamless context awareness with just unmodified WiFi. <br><br>
+  <a href="/files/tagfi-ubicomp21.pdf">Full Paper</a>,
+  <a href="https://www.youtube.com/watch?v=w5HQwYWjbg8">Talk</a>,
+  <a href="https://www.youtube.com/watch?v=gnSSzYrRU6o">Demo Video</a><br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/tagfi_sq.jpg" alt="Avatars" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
+---
+
+<h3 id="frontiers">Emerging frontiers</h3>
+
+<h4 id="sharp">Sharp</h4>
+
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:30px;">
+
+  <div style="flex:1; min-width:250px;">
+  <p>
+      Recently, we are witnessing systems research building testbeds that share raw spatial sensor data for cooperative perception. While raw data improves accuracies, new forms of privacy concerns arise and discourage stakeholders to share raw sensor data. We alleviate these concerns by proposing methods to address privacy leakages pertaining to ego-location and sensor intellectual property. <br><br>
+      <a href="/files/sharp-hotmobile26.pdf">Full Paper</a> <br>
+  </p>
+  </div>
+  <div style="flex:0 0 30%; text-align:center;">
+    <img src="/images/sharp.png" alt="Sharp" style="width:100%; max-width:300px; border-radius:8px;">
+  </div>
+</div>
+
+<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
+
 <h4 id="quasar">Quasar</h4> 
 
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
@@ -238,76 +354,3 @@ weight = 10
 </div>
 
 ---
-
-<h3 id="ubi">Ubiquitous wireless sensing </h3>
-
-<h4 id="osprey">Osprey</h4>
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-  Tire wear affects safety and performance of automobiles. Past solutions are either inaccurate, require sensors embedded in tires or are prone to road debris. Osprey proposes a radio frequency tire wear sensing system design, based on automotive millimeter wave radars, to overcome challenges related to road debris. We design super resolution algorithms to measure millimeter-level changes due to wear and tear. In addition, the principles used also open up solutions for detecting and localizing harmful metallic foreign objects in the tire.  <br><br>
-  <a href="/files/osprey-mobisys20.pdf">Full Paper</a>,
-  <a href="/files/osprey-demo-mobisys20.pdf">Demo Paper</a>,
-  <a href="/files/osprey-getmobile21.pdf">Magazine</a>,
-  <a href="https://www.youtube.com/watch?v=y-haR7Vc01o">Talk</a>,
-  <a href="https://drive.google.com/file/d/1IhwnS1KSGDmiKOGz1JiVGAjnr-BQlAB6/view?usp=sharing">Slides</a>,
-  <a href="https://www.youtube.com/embed/tGFg0Vhi2uY?start=66&end=127">Video-1min</a>,
-  <a href="https://www.youtube.com/watch?v=jhasOfGaS5w">Video-3min</a><br>
-  <em>Press</em>: <a href="https://www.ece.cmu.edu/news-and-events/story/2020/07/sensing-tire-wear.html">CMU</a>,
-    <a href="https://gizmodo.com/researchers-find-that-radar-can-be-used-to-detect-a-nai-1844635816">Gizmodo</a>,
-    <a href="https://www.hackster.io/news/researchers-develop-system-that-monitors-tire-wear-in-real-time-4ff4d9c738f3">Hackster.io</a>,
-    <a href="https://thatscoolnews.com/episode/21-osprey-mmwaves-sense-tire-wear-akarsh/">That's Cool News Podcast</a>,
-    <a href="https://weibold.com/radar-to-monitor-tire-wear-developed-by-american-engineers">Weibold</a>,
-    <a href="https://interestingengineering.com/innovation/radar-can-be-used-to-detect-tire-wear-and-tear-nail-punctures">Interesting Engineering</a>,
-    <a href="https://wonderfulengineering.com/this-radar-based-device-can-detect-tire-punctures-along-with-wear-and-tear/">Wonderful Engineering</a>,
-    <a href="https://www.tyrepress.com/2020/08/measuring-tyre-wear-with-on-car-radar/">Tyrepress.com</a><br>
-  <span style="color: red;"> <em>Best Paper Honorable Mention (MobiSys 2020)</em></span> <br>
-  <span style="color: red;"> <em>Best Demo (MobiSys 2020)</em></span> <br>
-  <span style="color: red;"> <em>ACM GetMobile Research Highlight</em></span> <br>
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-    <img src="/images/osprey.jpg" alt="Osprey" style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-</div>
-
-<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
-
-<h4 id="tagfi">TagFi</h4> 
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-  How can we locate important and often misplaced objects-of-interest like keys, wallets, tools? Prior works either need power hungry tags attached to these objects or custom supporting infrastructure to manage tags. We turn to already existing and widely deployed WiFi networks for infrastructure support and build custom extremely low power tags. The user can simply forget about the tag for years. Our algorithms can locate objects with fine-grained accuracy and provide seamless context awareness with just unmodified WiFi. <br><br>
-  <a href="/files/tagfi-ubicomp21.pdf">Full Paper</a>,
-  <a href="https://www.youtube.com/watch?v=w5HQwYWjbg8">Talk</a>,
-  <a href="https://www.youtube.com/watch?v=gnSSzYrRU6o">Demo Video</a><br>
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-    <img src="/images/tagfi_sq.jpg" alt="Avatars" style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-</div>
-
-<hr style="border:0; border-top:1px solid #ccc; margin:20px 0;">
-
-<h4 id="platypus">Platypus</h4> 
-
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:40px;">
-
-  <div style="flex:1; min-width:250px;">
-  <p>
-  How can we continuously monitor the development of miniature cracks in today's aging public infrastructure like bridges? This would inform decisions on safety and maintenance of these critical structures well in advance. Past work has looked at coarse grained structure health monitoring. Platypus builds novel signal processing and low power hardware tags to mount on bridges. We enable a new operating point that can measure micro-displacements of structures over years and in extreme weather conditions. <br><br>
-  <a href="/files/platypus-ipsn23.pdf">Full Paper</a>,
-  <a href="/files/platypus-demo-ipsn23.pdf">Demo Paper</a>,
-  <a href="https://www.youtube.com/watch?v=M8HkvFgZx9I">Video</a><br>
-  <span style="color: red;"><em>Best Demo Runner Up (IPSN 2023)</em></span><br>
-  </p>
-  </div>
-  <div style="flex:0 0 30%; text-align:center;">
-    <img src="/images/platypus_sq.jpg" alt="Metamoran" style="width:100%; max-width:300px; border-radius:8px;">
-  </div>
-</div>

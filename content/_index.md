@@ -105,7 +105,7 @@ weight = 1
         </ul>
         <li><span style="font-weight: 600; color: black;">Wireless + health</span> 
         <ul>
-        <li><a href="/">multi-site pulse transit time</a>
+        <li><a href="/files/polypulse-naturecomms26.pdf">multi-site pulse transit time</a>
         </ul>
         <li><span style="font-weight: 600; color: black;">Backscatter</span> 
         <ul>

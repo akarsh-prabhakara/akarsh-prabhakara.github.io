@@ -243,8 +243,8 @@ weight = 10
   <div style="flex:1; min-width:250px;">
   <p>
   Radars have been used for non-contact heart rate monitoring. Can we push the boundaries by measuring heart-induced signals at multiple sites on the body? This would address physiological monitoring needs such as pulse transit time measurement and blood pressure monitoring - both of which needs contact probes today. PolyPulse builds fine-grained beamforming to focus on multiple sites and a deep learning pipeline to convert radar reflections into heart-induced signals at respective sites. We observe strong correlation with contact based pulse transit time and diastolic blood pressure.<br><br>
-  <!-- <a href="/files/metamorph-icra25.pdf">Full Paper</a>, -->
-  <!-- <a href="https://github.com/yawenliu-ece/MetaMorph">Code</a><br> -->
+  <a href="/files/polypulse-naturecomms26.pdf">Full Paper</a>,
+  <a href="https://github.com/ZJendex/polypulse-ptt">Code</a><br>
   </p>
   </div>
   <div style="flex:0 0 30%; text-align:center;">

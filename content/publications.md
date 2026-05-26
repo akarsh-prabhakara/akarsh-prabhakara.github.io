@@ -29,7 +29,7 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/">Measuring multi-site pulse transit time with an AI-enabled mmWave radar</a><br>Jiangyifei Zhu*, Kuang Yuan*, Akarsh Prabhakara, Yunzhi Li, Gongwei Wang, Kelly Michaelsen, Justin Chan, Swarun Kumar<br>
+    <a href="/files/polypulse-naturecomms26.pdf">Measuring multi-site pulse transit time with an AI-enabled mmWave radar</a><br>Jiangyifei Zhu*, Kuang Yuan*, Akarsh Prabhakara, Yunzhi Li, Gongwei Wang, Kelly Michaelsen, Justin Chan, Swarun Kumar<br>
     <em>Nature Communications 2026</em><br>
   </div>
 

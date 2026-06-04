@@ -93,7 +93,7 @@ weight = 1
         </ul>
         <li><span style="font-weight: 600; color: black;">Physics based radio frequency imaging</span> 
         <ul>
-        <li><a href="/">inverse pinhole imaging</a>
+        <li><a href="/files/umbra-sensorsj26.pdf">inverse pinhole imaging</a>
         <li><a href="/files/hydra-mobicom24.pdf">multi-bounce wireless imaging</a>
         <li><a href="/files/metamoran-iros22.pdf">RF+camera fusion</a></li>
         <li><a href="/files/osprey-mobisys20.pdf">tire wear sensing via inverse synthetic aperture imaging</a>

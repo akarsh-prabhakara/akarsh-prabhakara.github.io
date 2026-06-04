@@ -114,7 +114,7 @@ weight = 10
   <div style="flex:1; min-width:250px;">
   <p>
   How can we enable high resolution imaging at RF without large arrays or antenna motion via Synthetic Aperture Radar (SAR)? Umbra builds inverse pinhole imaging that enables a static single antenna to achieve high resolution, high update rate imaging. All we need to add to a single antenna setup is a lightweight strip that is spun by a low cost DC motor. We show that this emulates an "inverse pinhole" and offers extra information that can boost resolution. Static mount applications like pole/wall mount radars and in-place hovering drones can directly benefit from this approach. <br> <br>
-  <!-- <a href="/files/metamoran-iros22.pdf">Full Paper</a>, -->
+  <a href="/files/umbra-sensorsj26.pdf">Full Paper</a>
   <!-- <a href="https://docs.google.com/presentation/d/1-sennGYCLc8R9F7-4osnNiQKeEnRyXY0/edit?usp=sharing&ouid=111709944551033943094&rtpof=true&sd=true">Slides</a>, -->
   <!-- <a href="https://drive.google.com/file/d/1-2UJ0AMo6xg-Fy3Djt43waVCD1JnJpyy/view?usp=sharing">Talk</a><br> -->
   </p>

@@ -12,7 +12,7 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
-    <a href="/">Millimeter Wave Inverse Pinhole Imaging</a><br>Akarsh Prabhakara, Yawen Liu, Aswin Sankaranarayanan, Anthony Rowe, Swarun Kumar<br>
+    <a href="/files/umbra-sensorsj26.pdf">Millimeter Wave Inverse Pinhole Imaging</a><br>Akarsh Prabhakara, Yawen Liu, Aswin Sankaranarayanan, Anthony Rowe, Swarun Kumar<br>
     <em>IEEE Sensors Journal 2026</em><br>
   </div>
 

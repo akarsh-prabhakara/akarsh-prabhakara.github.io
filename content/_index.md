@@ -184,11 +184,12 @@ weight = 1
 <!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
 <ul class="one">
-<li><em>May 26</em>: Umbra accepted at IEEE Sensors Journal
-<li><em>Mar 26</em>: PolyPulse accepted at Nature Communications 
+<li><em>Aug 26</em>: <a href="https://research.wisc.edu/2026-recipients-igniting-interdisciplinary-innovation-i%c2%b3-initiative/">Juno</a> is one of the recipients of the I<sup>3</sup> initative
+<li><em>May 26</em>: <a href="/research#umbra">Umbra</a> accepted at IEEE Sensors Journal
+<li><em>Mar 26</em>: <a href="/research#polypulse">PolyPulse</a> accepted at Nature Communications 
 <li><em>Feb 26</em>: Paper on handling glare in solid-state lidars at CVPR 26 
 <li><em>Dec 25</em>: <a href="/research#sharp">Sharp</a> accepted at HotMobile 26 
-<li><em>Nov 25</em>: <a href="/research#radarsim">RadarSim</a> accepted at 3DV 26 
+<!-- <li><em>Nov 25</em>: <a href="/research#radarsim">RadarSim</a> accepted at 3DV 26  -->
 <!-- <li><em>June 25</em>: <a href="/research#grt">GRT</a> accepted at ICCV 25  -->
 <!-- <li><em>May 25</em>: <a href="/research#metamorph">Metamorph</a> presented at ICRA 25 -->
 </ul>

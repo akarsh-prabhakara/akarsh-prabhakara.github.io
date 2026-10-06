@@ -344,6 +344,24 @@ weight = 20
 
   <!-- Text column -->
   <div style="flex:1; min-width:250px;">
+    <a href="/files/leakage-demo-mobicom26.pdf">Demo: Locating Leakage Current via Magnetometers</a><br>
+    Xincheng Xie, Akarsh Prabhakara <br>
+    <em>ACM MobiCom Demo 2026</em><br>
+    <!-- <span style="color: red;">Top 5 Best Demos</span> -->
+  </div>
+
+  <!-- Image column -->
+  <div style="flex:0 0 120px; text-align:center;">
+  </div>
+
+</div>
+
+<br>
+
+<div class="one" style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:50px;">
+
+  <!-- Text column -->
+  <div style="flex:1; min-width:250px;">
     <a href="/files/radarhd-demo-mobicom23.pdf">RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar</a><br>
     Akarsh Prabhakara, Tao Jin, Arnav Das, Gantavya Bhatt, Lilly Kumari, Elahe Soltanaghai, Jeff Bilmes, Swarun Kumar, Anthony Rowe <br>
     <em>ACM MobiCom Demo 2023</em><br>

@@ -184,7 +184,7 @@ weight = 1
 <!-- keep to only recent 5 news articles, implement a past news link -->
 <p>
 <ul class="one">
-<li><em>Oct 26</em>: Xincheng will present a <a href="/files/leakage-demo-mobicom26.pdf">magnetometer-based sensor</a> that boosts the efficiency of electrical fault debugging at MobiCom Demos 2026 in Austin. 
+<li><em>Oct 26</em>: Xincheng will present a <a href="/files/leakage-demo-mobicom26.pdf">magnetometer-based sensor</a> that boosts the efficiency of electrical fault debugging at MobiCom Demos 2026 in Austin 
 <li><em>Aug 26</em>: <a href="https://research.wisc.edu/2026-recipients-igniting-interdisciplinary-innovation-i%c2%b3-initiative/">Juno</a> is one of the recipients of the I<sup>3</sup> initative
 <li><em>May 26</em>: <a href="/research#umbra">Umbra</a> accepted at IEEE Sensors Journal
 <li><em>Mar 26</em>: <a href="/research#polypulse">PolyPulse</a> accepted at Nature Communications 
